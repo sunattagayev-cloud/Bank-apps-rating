@@ -751,7 +751,10 @@
                 document.getElementById('kpi-score').innerText = maxScore.toFixed(2);
                 document.getElementById('kpi-bank').innerText = maxBank;
                 document.getElementById('kpi-avg').innerText = (sum / data.length).toFixed(2);
-                document.getElementById('kpi-count').innerText = data.length;
+                
+                // Count unique banks correctly
+                const uniqueCount = new Set(data.map(d => d['Bank nomi'])).size;
+                document.getElementById('kpi-count').innerText = uniqueCount;
             } else {
                 ['kpi-score','kpi-avg','kpi-count'].forEach(id => document.getElementById(id).innerText = "0");
                 document.getElementById('kpi-bank').innerText = "-";
