@@ -1,28 +1,16 @@
 {
     "Apps_url": [
         {
-            "Bank nomi": "TURONBANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=com.colvir.turon.mobile",
-            "App Store url": "https://apps.apple.com/uz/app/my-turon/id1639122039",
-            "Logo_Url": "https://play-lh.googleusercontent.com/akrMBYQE4zp3LKLkmxD0pOp3rchr4PoSalNrhf6lu7Ns1ULdAup3ew7V0ZoTq68E_Q=w240-h480-rw"
-        },
-        {
             "Bank nomi": "O'ZMILLIYBANK",
             "Play Market url": "https://play.google.com/store/apps/details?id=com.tune.milliy",
             "App Store url": "https://apps.apple.com/uz/app/milliy/id1297283006",
             "Logo_Url": "https://play-lh.googleusercontent.com/iIKYvi7HmKrUYhISblIdmTUf38PXnNZTAq9gWrvpBihU6tXcs9KnKZhmuuC954DfA0Y=w240-h480-rw"
         },
         {
-            "Bank nomi": "ASIA ALLIANCE BANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=uz.tune.juicer",
-            "App Store url": "https://apps.apple.com/uz/app/alliance-pay/id6469618319",
-            "Logo_Url": "https://play-lh.googleusercontent.com/ozZ20jb8_dEVdC09SAgGP5dYkJlBYxWmQZBVTnICPTqaQwBipWcwTBMHNdf1nRY3BIomF8njXFIFvV0TPLEa=w240-h480-rw"
-        },
-        {
-            "Bank nomi": "OPEN BANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=uz.smartbank",
-            "App Store url": "https://apps.apple.com/uz/app/openbank-uz-onlayn-bank/id6446754221",
-            "Logo_Url": "https://play-lh.googleusercontent.com/quK1vVTtlaz65u-apJqj1Y3JYidkc7xpHTqdRUjkrgkbI8UQN95iAXfPc6L8eaj01Q4DN6Bg_vFVJaF1QqkbGw=w240-h480-rw"
+            "Bank nomi": "TURONBANK",
+            "Play Market url": "https://play.google.com/store/apps/details?id=com.colvir.turon.mobile",
+            "App Store url": "https://apps.apple.com/uz/app/my-turon/id1639122039",
+            "Logo_Url": "https://play-lh.googleusercontent.com/akrMBYQE4zp3LKLkmxD0pOp3rchr4PoSalNrhf6lu7Ns1ULdAup3ew7V0ZoTq68E_Q=w240-h480-rw"
         },
         {
             "Bank nomi": "O'ZSANOATQURILISHBANK",
@@ -31,16 +19,10 @@
             "Logo_Url": "https://play-lh.googleusercontent.com/6-Zrrpg-Lughb3hCZjVm54LpYpmM80CSeFLhiroL4AD8e1r38BW4UioTS4xpSmZNGN0=w240-h480-rw"
         },
         {
-            "Bank nomi": "TENGE BANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=uz.tune.tenge",
-            "App Store url": "https://apps.apple.com/uz/app/tenge24/id1586139053",
-            "Logo_Url": "https://play-lh.googleusercontent.com/xm4ZBXT3xnW2ku2oweKjtkFDFDkDo7Iap9dZulhu1xfrXbfiC421CSojJAThKcg2uvSu=w240-h480-rw"
-        },
-        {
-            "Bank nomi": "KAPITALBANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=uz.kapitalbank.kbonline",
-            "App Store url": "https://apps.apple.com/uz/app/kapitalbank-bank-uzbekistan/id1546213356",
-            "Logo_Url": "https://play-lh.googleusercontent.com/ipZWOBYDY1033gWN9ShXP4gsoLsv7Xr8YH8alqeAPEXRoWbtEQcbvmCBTaM4cwQgQ4Sz=w240-h480-rw"
+            "Bank nomi": "ASIA ALLIANCE BANK",
+            "Play Market url": "https://play.google.com/store/apps/details?id=uz.tune.juicer",
+            "App Store url": "https://apps.apple.com/uz/app/alliance-pay/id6469618319",
+            "Logo_Url": "https://play-lh.googleusercontent.com/ozZ20jb8_dEVdC09SAgGP5dYkJlBYxWmQZBVTnICPTqaQwBipWcwTBMHNdf1nRY3BIomF8njXFIFvV0TPLEa=w240-h480-rw"
         },
         {
             "Bank nomi": "AGROBANK",
@@ -49,16 +31,10 @@
             "Logo_Url": "https://play-lh.googleusercontent.com/9nL2sC3YI_de0R8Wdz8fFqD-EWwc4j3b2Mf2yWqmJyHRyySVoUS5IWER9a6Ep3uuEw=w240-h480-rw"
         },
         {
-            "Bank nomi": "KDB BANK O'ZBEKISTON",
-            "Play Market url": "https://play.google.com/store/apps/details?id=app.mobile.kdb",
-            "App Store url": "https://apps.apple.com/uz/app/kdbuz-mobile/id6448983924",
-            "Logo_Url": "https://play-lh.googleusercontent.com/kQGN4YTS_y4d8JOYt-NjvR8EUf5PnYVDqP0CFvjoKgDMdhTGh0AsV1eNh5sz2VvUxOt67gunUEQ1P6aw9btvtw=w240-h480-rw"
-        },
-        {
-            "Bank nomi": "TBC BANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=ge.space.app.uzbekistan",
-            "App Store url": "https://apps.apple.com/uz/app/tbc-uz/id1450503714",
-            "Logo_Url": "https://play-lh.googleusercontent.com/KyzClf9-YkezPp5snt9LWCnh_aT7KTV4q6aQCgi1PCL2gXybBgn4WgescKoE08HM6rfTfikbOFUfwjLCBcDfH5A=w240-h480-rw"
+            "Bank nomi": "OPEN BANK",
+            "Play Market url": "https://play.google.com/store/apps/details?id=uz.smartbank",
+            "App Store url": "https://apps.apple.com/uz/app/openbank-uz-onlayn-bank/id6446754221",
+            "Logo_Url": "https://play-lh.googleusercontent.com/quK1vVTtlaz65u-apJqj1Y3JYidkc7xpHTqdRUjkrgkbI8UQN95iAXfPc6L8eaj01Q4DN6Bg_vFVJaF1QqkbGw=w240-h480-rw"
         },
         {
             "Bank nomi": "MIKROKREDITBANK",
@@ -67,16 +43,10 @@
             "Logo_Url": "https://play-lh.googleusercontent.com/344eCBQ3YiidxZrHSqCcDujWnuEYErPxhJsr3bSc2Tocd8LTWtvUlFn5IXylCMBc-Q=w240-h480-rw"
         },
         {
-            "Bank nomi": "ANOR BANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=uz.anormobile.retail",
-            "App Store url": "https://apps.apple.com/uz/app/anorbank/id1579623268",
-            "Logo_Url": "https://play-lh.googleusercontent.com/9nfyAySpxZMk01BxNNSMfir6UUW5PJ3aLlYx_ysmCtTwTpRQrMCJwfyFuHA5-Sf4fw=w240-h480-rw"
-        },
-        {
-            "Bank nomi": "TRASTBANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=trastpay.uz",
-            "App Store url": "https://apps.apple.com/uz/app/trastpay/id6443658536",
-            "Logo_Url": "https://play-lh.googleusercontent.com/zJ9jIA6Sqr7XawPFpRBiFxONIAtZK_27iRgsYpPtJRKq4EfpOSXLXzxhX3eB7p-0iRk=w240-h480-rw"
+            "Bank nomi": "TENGE BANK",
+            "Play Market url": "https://play.google.com/store/apps/details?id=uz.tune.tenge",
+            "App Store url": "https://apps.apple.com/uz/app/tenge24/id1586139053",
+            "Logo_Url": "https://play-lh.googleusercontent.com/xm4ZBXT3xnW2ku2oweKjtkFDFDkDo7Iap9dZulhu1xfrXbfiC421CSojJAThKcg2uvSu=w240-h480-rw"
         },
         {
             "Bank nomi": "XALQ BANKI",
@@ -85,10 +55,22 @@
             "Logo_Url": "https://play-lh.googleusercontent.com/0unxfuNkP2tljQrDwVMnsreRmsPH1A9hiNFbggLjQTZdHWcI0zsOb2VzzEcLy75rxHY=w240-h480-rw"
         },
         {
-            "Bank nomi": "BANK IPAK YO'LI",
-            "Play Market url": "https://play.google.com/store/apps/details?id=com.ipakyulibank.mobile",
-            "App Store url": "https://apps.apple.com/uz/app/ipak-yoli-mobile/id1436677359",
-            "Logo_Url": "https://play-lh.googleusercontent.com/76tuK60906CeD-VYGVAD_g6I9e9p25hbI1PJW0_T7YVZlAtZMEcYRVtYdcx1vimEECETQTmeGsjYe2JDFLh1tQ=w240-h480-rw"
+            "Bank nomi": "KAPITALBANK",
+            "Play Market url": "https://play.google.com/store/apps/details?id=uz.kapitalbank.kbonline",
+            "App Store url": "https://apps.apple.com/uz/app/kapitalbank-bank-uzbekistan/id1546213356",
+            "Logo_Url": "https://play-lh.googleusercontent.com/ipZWOBYDY1033gWN9ShXP4gsoLsv7Xr8YH8alqeAPEXRoWbtEQcbvmCBTaM4cwQgQ4Sz=w240-h480-rw"
+        },
+        {
+            "Bank nomi": "BIZNESNI RIVOJLANTIRISH BANKI",
+            "Play Market url": "https://play.google.com/store/apps/details?id=com.qqb.quant",
+            "App Store url": "https://apps.apple.com/uz/app/quant-uzbekistan/id1524422825",
+            "Logo_Url": "https://play-lh.googleusercontent.com/m-iZ0mr2m5Ttg07PafZHxLUIr7ygb_KgT6nZDQX5vJhPwp7DV2Jxc_JJS5qLN_RUusw=w240-h480-rw"
+        },
+        {
+            "Bank nomi": "KDB BANK O'ZBEKISTON",
+            "Play Market url": "https://play.google.com/store/apps/details?id=app.mobile.kdb",
+            "App Store url": "https://apps.apple.com/uz/app/kdbuz-mobile/id6448983924",
+            "Logo_Url": "https://play-lh.googleusercontent.com/kQGN4YTS_y4d8JOYt-NjvR8EUf5PnYVDqP0CFvjoKgDMdhTGh0AsV1eNh5sz2VvUxOt67gunUEQ1P6aw9btvtw=w240-h480-rw"
         },
         {
             "Bank nomi": "GARANT BANK",
@@ -97,16 +79,40 @@
             "Logo_Url": "https://play-lh.googleusercontent.com/IfMB7-FYEYcmnQAGWBNNoHtodmGQCSE2HftxtLuINDPGuNpPGkufsVlcgNQKeYAMb9U=w240-h480-rw"
         },
         {
+            "Bank nomi": "TBC BANK",
+            "Play Market url": "https://play.google.com/store/apps/details?id=ge.space.app.uzbekistan",
+            "App Store url": "https://apps.apple.com/uz/app/tbc-uz/id1450503714",
+            "Logo_Url": "https://play-lh.googleusercontent.com/KyzClf9-YkezPp5snt9LWCnh_aT7KTV4q6aQCgi1PCL2gXybBgn4WgescKoE08HM6rfTfikbOFUfwjLCBcDfH5A=w240-h480-rw"
+        },
+        {
+            "Bank nomi": "ANOR BANK",
+            "Play Market url": "https://play.google.com/store/apps/details?id=uz.anormobile.retail",
+            "App Store url": "https://apps.apple.com/uz/app/anorbank/id1579623268",
+            "Logo_Url": "https://play-lh.googleusercontent.com/9nfyAySpxZMk01BxNNSMfir6UUW5PJ3aLlYx_ysmCtTwTpRQrMCJwfyFuHA5-Sf4fw=w240-h480-rw"
+        },
+        {
+            "Bank nomi": "HAMKORBANK",
+            "Play Market url": "https://play.google.com/store/apps/details?id=com.hamkorbank.mobile",
+            "App Store url": "https://apps.apple.com/uz/app/hamkor-онлайн-банк-узбекистана/id1602323485",
+            "Logo_Url": "https://play-lh.googleusercontent.com/_Hg-uOVZ76Ol7FV5FZfc0zmiubbB2sqEQO4pBSme52Tk-nbUH7CE64-3KXSwHw-psNN4=w240-h480-rw"
+        },
+        {
+            "Bank nomi": "TRASTBANK",
+            "Play Market url": "https://play.google.com/store/apps/details?id=trastpay.uz",
+            "App Store url": "https://apps.apple.com/uz/app/trastpay/id6443658536",
+            "Logo_Url": "https://play-lh.googleusercontent.com/zJ9jIA6Sqr7XawPFpRBiFxONIAtZK_27iRgsYpPtJRKq4EfpOSXLXzxhX3eB7p-0iRk=w240-h480-rw"
+        },
+        {
             "Bank nomi": "ASAKABANK",
             "Play Market url": "https://play.google.com/store/apps/details?id=uz.asakabank.myasaka",
             "App Store url": "https://apps.apple.com/uz/app/asakabank/id1574165416",
             "Logo_Url": "https://play-lh.googleusercontent.com/QjGb3Y9OYA3J7dYo_-_1jI-G7z9NGlpN81x9khvgjJSGfaIeTNgmLeOrda1ZzlfRJwc=w240-h480-rw"
         },
         {
-            "Bank nomi": "BIZNESNI RIVOJLANTIRISH BANKI",
-            "Play Market url": "https://play.google.com/store/apps/details?id=com.qqb.quant",
-            "App Store url": "https://apps.apple.com/uz/app/quant-uzbekistan/id1524422825",
-            "Logo_Url": "https://play-lh.googleusercontent.com/m-iZ0mr2m5Ttg07PafZHxLUIr7ygb_KgT6nZDQX5vJhPwp7DV2Jxc_JJS5qLN_RUusw=w240-h480-rw"
+            "Bank nomi": "BANK IPAK YO'LI",
+            "Play Market url": "https://play.google.com/store/apps/details?id=com.ipakyulibank.mobile",
+            "App Store url": "https://apps.apple.com/uz/app/ipak-yoli-mobile/id1436677359",
+            "Logo_Url": "https://play-lh.googleusercontent.com/76tuK60906CeD-VYGVAD_g6I9e9p25hbI1PJW0_T7YVZlAtZMEcYRVtYdcx1vimEECETQTmeGsjYe2JDFLh1tQ=w240-h480-rw"
         },
         {
             "Bank nomi": "ALOQABANK",
@@ -121,34 +127,16 @@
             "Logo_Url": "https://play-lh.googleusercontent.com/yd8c_yc4qAMfQApVlBwQg91wGvIyUTCK42H1vikOy4bS227mReDL9x9yTgehN5mIXaua=w240-h480-rw"
         },
         {
+            "Bank nomi": "UNIVERSAL BANK",
+            "Play Market url": "https://play.google.com/store/apps/details?id=uz.fido.universaldigital",
+            "App Store url": "https://apps.apple.com/uz/app/universalbank/id6453759395",
+            "Logo_Url": "https://play-lh.googleusercontent.com/da7fq0Gxz_S28VKMpIQFV4lF_G-Vzk9OCVG8vna7wNXD2WbHcQFdkjJVVoGoDYVk6Wc=w240-h480-rw"
+        },
+        {
             "Bank nomi": "HAYOT BANK",
             "Play Market url": "https://play.google.com/store/apps/details?id=uz.cbssolutions.mobile",
             "App Store url": "https://apps.apple.com/uz/app/hayot-business/id6472890121",
             "Logo_Url": "https://play-lh.googleusercontent.com/oe_G1xE2x8ITB5k4bYXia_Zoq8oafk9lkyPSZfB9kusH53nWmjAvyE9D5KnN8VKBlg=w240-h480-rw"
-        },
-        {
-            "Bank nomi": "HAMKORBANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=uz.hamkorbank.mobile",
-            "App Store url": "https://apps.apple.com/uz/app/hamkor-онлайн-банк-узбекистана/id1602323485",
-            "Logo_Url": "https://play-lh.googleusercontent.com/_Hg-uOVZ76Ol7FV5FZfc0zmiubbB2sqEQO4pBSme52Tk-nbUH7CE64-3KXSwHw-psNN4=w240-h480-rw"
-        },
-        {
-            "Bank nomi": "YANGI BANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=uz.yangi.finance",
-            "App Store url": "https://apps.apple.com/uz/app/yangi-business/id6449368721",
-            "Logo_Url": "https://play-lh.googleusercontent.com/hX9BRCLjSAGIe8nufPFQXHav7_70Vz19kiCwoPqqGoDyw4XmyrGY8q_fSgPRaTdb4IaK=w240-h480-rw"
-        },
-        {
-            "Bank nomi": "ZIRAAT BANK UZBEKISTAN",
-            "Play Market url": "https://play.google.com/store/apps/details?id=uz.ziraat.mobile",
-            "App Store url": "https://apps.apple.com/uz/app/ziraat-mobile-uzbekistan/id1540767956",
-            "Logo_Url": null
-        },
-        {
-            "Bank nomi": "AVO BANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=uz.avo.app",
-            "App Store url": "https://apps.apple.com/uz/app/avo-онлайн-банк/id6463799850",
-            "Logo_Url": "https://play-lh.googleusercontent.com/N0pHwzO1aYjMIOHpsgh5XENlwpwwndZo7ysIYUkPjmlfCdUEneWnsF327-Gs2Iqh4BQE=s48-rw"
         },
         {
             "Bank nomi": "OCTOBANK",
@@ -157,28 +145,16 @@
             "Logo_Url": "https://play-lh.googleusercontent.com/dN2JPM6xpN64ISi4Hv6bdd-m3cFPrSNIPcHkmlH7z5mAcYjkPPWHD07f24iZkIV8rw=w240-h480-rw"
         },
         {
-            "Bank nomi": "IPOTEKA-BANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=com.bss.ipotekabank.retail.lite",
-            "App Store url": "https://apps.apple.com/uz/app/ipoteka-retail/id1637057203",
-            "Logo_Url": "https://play-lh.googleusercontent.com/qiazT2WPV-H6SNk0FHHf3BJCNaAgjXs2m1jfL-OHXNgMCA58g80UJERwTmGT0nv8OVo=w240-h480-rw"
-        },
-        {
             "Bank nomi": "INFINBANK",
             "Play Market url": "https://play.google.com/store/apps/details?id=uz.xsoft.myinfin",
             "App Store url": "https://apps.apple.com/uz/app/infinbank/id1454367354",
             "Logo_Url": "https://play-lh.googleusercontent.com/ZbhQWndvDNXKJiTTFjhiasP2ye2bXYqxaVnasy8SKgsYSvgdnvPyY9XcNfm2EzYp6Q=w240-h480-rw"
         },
         {
-            "Bank nomi": "APEX BANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=com.fincube.apexbank",
-            "App Store url": "https://apps.apple.com/uz/app/apex-мобильный-онлайн-банк/id6469687454",
-            "Logo_Url": "https://play-lh.googleusercontent.com/HDQjDrjp5LRjq_RXGX2Vso7G5fHHD32KjzAhgEJ0nG5SmJ0VoA-a0rV6fluq3WiSNvgG=w240-h480-rw"
-        },
-        {
-            "Bank nomi": "UNIVERSAL BANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=uz.fido.universaldigital",
-            "App Store url": "https://apps.apple.com/uz/app/universalbank/id6453759395",
-            "Logo_Url": "https://play-lh.googleusercontent.com/da7fq0Gxz_S28VKMpIQFV4lF_G-Vzk9OCVG8vna7wNXD2WbHcQFdkjJVVoGoDYVk6Wc=w240-h480-rw"
+            "Bank nomi": "AVO BANK",
+            "Play Market url": "https://play.google.com/store/apps/details?id=uz.avo.app",
+            "App Store url": "https://apps.apple.com/uz/app/avo-онлайн-банк/id6463799850",
+            "Logo_Url": "https://play-lh.googleusercontent.com/N0pHwzO1aYjMIOHpsgh5XENlwpwwndZo7ysIYUkPjmlfCdUEneWnsF327-Gs2Iqh4BQE=s48-rw"
         },
         {
             "Bank nomi": "DAVR-BANK",
@@ -187,10 +163,16 @@
             "Logo_Url": "https://play-lh.googleusercontent.com/2rqjRHKr1e9ZuPaj9dpJzrl9yqXj91PnDDfoOyXh0VpAPqAbI6iddPahmGagU49nIgU=w240-h480-rw"
         },
         {
-            "Bank nomi": "MADAD INVEST BANK",
-            "Play Market url": "https://play.google.com/store/apps/details?id=uz.tune.mybank",
-            "App Store url": "https://apps.apple.com/uz/app/mybank-uz/id6503429804",
-            "Logo_Url": null
+            "Bank nomi": "APEX BANK",
+            "Play Market url": "https://play.google.com/store/apps/details?id=com.fincube.apexbank",
+            "App Store url": "https://apps.apple.com/uz/app/apex-мобильный-онлайн-банк/id6469687454",
+            "Logo_Url": "https://play-lh.googleusercontent.com/HDQjDrjp5LRjq_RXGX2Vso7G5fHHD32KjzAhgEJ0nG5SmJ0VoA-a0rV6fluq3WiSNvgG=w240-h480-rw"
+        },
+        {
+            "Bank nomi": "IPOTEKA-BANK",
+            "Play Market url": "https://play.google.com/store/apps/details?id=com.bss.ipotekabank.retail.lite",
+            "App Store url": "https://apps.apple.com/uz/app/ipoteka-retail/id1637057203",
+            "Logo_Url": "https://play-lh.googleusercontent.com/qiazT2WPV-H6SNk0FHHf3BJCNaAgjXs2m1jfL-OHXNgMCA58g80UJERwTmGT0nv8OVo=w240-h480-rw"
         }
     ],
     "Play Market": [
@@ -362,19 +344,6 @@
             "Gorizontal baho": 96.21,
             "Vertikal baho": 63.98,
             "Yakuniy ball": 80.09
-        },
-        {
-            "Davr": "2025_01",
-            "Bank nomi": "YANGI BANK",
-            "1": 1919,
-            "2": 356,
-            "3": 397,
-            "4": 591,
-            "5": 10832,
-            "Jami": 14095,
-            "Gorizontal baho": 85.63,
-            "Vertikal baho": 73.41,
-            "Yakuniy ball": 79.52
         },
         {
             "Davr": "2025_01",
@@ -585,19 +554,6 @@
             "Yakuniy ball": 47.6
         },
         {
-            "Davr": "2025_01",
-            "Bank nomi": "ZIRAAT BANK UZBEKISTAN",
-            "1": 195,
-            "2": 10,
-            "3": 0,
-            "4": 0,
-            "5": 68,
-            "Jami": 273,
-            "Gorizontal baho": 40.66,
-            "Vertikal baho": 44.69,
-            "Yakuniy ball": 42.67
-        },
-        {
             "Davr": "2025_02",
             "Bank nomi": "TBC BANK",
             "1": 11959,
@@ -752,19 +708,6 @@
             "Gorizontal baho": 94.55,
             "Vertikal baho": 65.9,
             "Yakuniy ball": 80.23
-        },
-        {
-            "Davr": "2025_02",
-            "Bank nomi": "YANGI BANK",
-            "1": 1925,
-            "2": 295,
-            "3": 417,
-            "4": 570,
-            "5": 11140,
-            "Jami": 14347,
-            "Gorizontal baho": 86.08,
-            "Vertikal baho": 73.9,
-            "Yakuniy ball": 79.99
         },
         {
             "Davr": "2025_02",
@@ -975,19 +918,6 @@
             "Yakuniy ball": 56.6
         },
         {
-            "Davr": "2025_02",
-            "Bank nomi": "ZIRAAT BANK UZBEKISTAN",
-            "1": 202,
-            "2": 10,
-            "3": 0,
-            "4": 0,
-            "5": 66,
-            "Jami": 278,
-            "Gorizontal baho": 39.71,
-            "Vertikal baho": 44.79,
-            "Yakuniy ball": 42.25
-        },
-        {
             "Davr": "2025_03",
             "Bank nomi": "TBC BANK",
             "1": 11927,
@@ -1142,19 +1072,6 @@
             "Gorizontal baho": 95.57,
             "Vertikal baho": 66.28,
             "Yakuniy ball": 80.92
-        },
-        {
-            "Davr": "2025_03",
-            "Bank nomi": "YANGI BANK",
-            "1": 1674,
-            "2": 183,
-            "3": 387,
-            "4": 571,
-            "5": 12001,
-            "Jami": 14816,
-            "Gorizontal baho": 88.4,
-            "Vertikal baho": 72.11,
-            "Yakuniy ball": 80.25
         },
         {
             "Davr": "2025_03",
@@ -1378,32 +1295,6 @@
             "Yakuniy ball": 56.49
         },
         {
-            "Davr": "2025_03",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 17,
-            "2": 2,
-            "3": 1,
-            "4": 0,
-            "5": 19,
-            "Jami": 39,
-            "Gorizontal baho": 61.03,
-            "Vertikal baho": 43.18,
-            "Yakuniy ball": 52.11
-        },
-        {
-            "Davr": "2025_03",
-            "Bank nomi": "ZIRAAT BANK UZBEKISTAN",
-            "1": 203,
-            "2": 10,
-            "3": 0,
-            "4": 0,
-            "5": 66,
-            "Jami": 279,
-            "Gorizontal baho": 39.64,
-            "Vertikal baho": 44.71,
-            "Yakuniy ball": 42.18
-        },
-        {
             "Davr": "2025_04",
             "Bank nomi": "TBC BANK",
             "1": 12214,
@@ -1571,19 +1462,6 @@
             "Gorizontal baho": 95.74,
             "Vertikal baho": 64.56,
             "Yakuniy ball": 80.15
-        },
-        {
-            "Davr": "2025_04",
-            "Bank nomi": "YANGI BANK",
-            "1": 1835,
-            "2": 182,
-            "3": 314,
-            "4": 719,
-            "5": 12109,
-            "Jami": 15159,
-            "Gorizontal baho": 87.82,
-            "Vertikal baho": 71.87,
-            "Yakuniy ball": 79.84
         },
         {
             "Davr": "2025_04",
@@ -1794,19 +1672,6 @@
             "Yakuniy ball": 56.17
         },
         {
-            "Davr": "2025_04",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 17,
-            "2": 2,
-            "3": 1,
-            "4": 0,
-            "5": 19,
-            "Jami": 39,
-            "Gorizontal baho": 61.03,
-            "Vertikal baho": 43.63,
-            "Yakuniy ball": 52.33
-        },
-        {
             "Davr": "2025_05",
             "Bank nomi": "TBC BANK",
             "1": 13085,
@@ -1974,19 +1839,6 @@
             "Gorizontal baho": 95.15,
             "Vertikal baho": 64.32,
             "Yakuniy ball": 79.73
-        },
-        {
-            "Davr": "2025_05",
-            "Bank nomi": "YANGI BANK",
-            "1": 1963,
-            "2": 172,
-            "3": 335,
-            "4": 722,
-            "5": 12333,
-            "Jami": 15525,
-            "Gorizontal baho": 87.43,
-            "Vertikal baho": 71.89,
-            "Yakuniy ball": 79.66
         },
         {
             "Davr": "2025_05",
@@ -2197,19 +2049,6 @@
             "Yakuniy ball": 57.32
         },
         {
-            "Davr": "2025_05",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 17,
-            "2": 2,
-            "3": 1,
-            "4": 0,
-            "5": 19,
-            "Jami": 39,
-            "Gorizontal baho": 61.03,
-            "Vertikal baho": 43.78,
-            "Yakuniy ball": 52.4
-        },
-        {
             "Davr": "2025_06",
             "Bank nomi": "TBC BANK",
             "1": 14067,
@@ -2364,19 +2203,6 @@
             "Gorizontal baho": 94.73,
             "Vertikal baho": 66.6,
             "Yakuniy ball": 80.66
-        },
-        {
-            "Davr": "2025_06",
-            "Bank nomi": "YANGI BANK",
-            "1": 1926,
-            "2": 184,
-            "3": 368,
-            "4": 707,
-            "5": 12530,
-            "Jami": 15715,
-            "Gorizontal baho": 87.66,
-            "Vertikal baho": 71.92,
-            "Yakuniy ball": 79.79
         },
         {
             "Davr": "2025_06",
@@ -2600,19 +2426,6 @@
             "Yakuniy ball": 57.28
         },
         {
-            "Davr": "2025_06",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 18,
-            "2": 2,
-            "3": 1,
-            "4": 0,
-            "5": 19,
-            "Jami": 40,
-            "Gorizontal baho": 60.0,
-            "Vertikal baho": 43.35,
-            "Yakuniy ball": 51.68
-        },
-        {
             "Davr": "2025_07",
             "Bank nomi": "TBC BANK",
             "1": 15225,
@@ -2793,19 +2606,6 @@
             "Gorizontal baho": 95.94,
             "Vertikal baho": 64.04,
             "Yakuniy ball": 79.99
-        },
-        {
-            "Davr": "2025_07",
-            "Bank nomi": "YANGI BANK",
-            "1": 1941,
-            "2": 218,
-            "3": 397,
-            "4": 666,
-            "5": 12932,
-            "Jami": 16154,
-            "Gorizontal baho": 87.77,
-            "Vertikal baho": 71.22,
-            "Yakuniy ball": 79.49
         },
         {
             "Davr": "2025_07",
@@ -3003,19 +2803,6 @@
             "Yakuniy ball": 56.82
         },
         {
-            "Davr": "2025_07",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 18,
-            "2": 2,
-            "3": 1,
-            "4": 0,
-            "5": 19,
-            "Jami": 40,
-            "Gorizontal baho": 60.0,
-            "Vertikal baho": 43.77,
-            "Yakuniy ball": 51.89
-        },
-        {
             "Davr": "2025_08",
             "Bank nomi": "TBC BANK",
             "1": 15620,
@@ -3183,19 +2970,6 @@
             "Gorizontal baho": 96.54,
             "Vertikal baho": 63.73,
             "Yakuniy ball": 80.14
-        },
-        {
-            "Davr": "2025_08",
-            "Bank nomi": "YANGI BANK",
-            "1": 1810,
-            "2": 170,
-            "3": 452,
-            "4": 774,
-            "5": 13251,
-            "Jami": 16457,
-            "Gorizontal baho": 88.54,
-            "Vertikal baho": 71.69,
-            "Yakuniy ball": 80.11
         },
         {
             "Davr": "2025_08",
@@ -3406,19 +3180,6 @@
             "Yakuniy ball": 53.08
         },
         {
-            "Davr": "2025_08",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 18,
-            "2": 2,
-            "3": 1,
-            "4": 0,
-            "5": 19,
-            "Jami": 40,
-            "Gorizontal baho": 60.0,
-            "Vertikal baho": 43.35,
-            "Yakuniy ball": 51.68
-        },
-        {
             "Davr": "2025_09",
             "Bank nomi": "TBC BANK",
             "1": 16615,
@@ -3573,19 +3334,6 @@
             "Gorizontal baho": 95.03,
             "Vertikal baho": 68.17,
             "Yakuniy ball": 81.6
-        },
-        {
-            "Davr": "2025_09",
-            "Bank nomi": "YANGI BANK",
-            "1": 1342,
-            "2": 197,
-            "3": 493,
-            "4": 671,
-            "5": 14292,
-            "Jami": 16995,
-            "Gorizontal baho": 91.04,
-            "Vertikal baho": 71.31,
-            "Yakuniy ball": 81.18
         },
         {
             "Davr": "2025_09",
@@ -3809,19 +3557,6 @@
             "Yakuniy ball": 56.94
         },
         {
-            "Davr": "2025_09",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 18,
-            "2": 2,
-            "3": 1,
-            "4": 0,
-            "5": 19,
-            "Jami": 40,
-            "Gorizontal baho": 60.0,
-            "Vertikal baho": 43.53,
-            "Yakuniy ball": 51.77
-        },
-        {
             "Davr": "2025_10",
             "Bank nomi": "TBC BANK",
             "1": 17331,
@@ -3976,19 +3711,6 @@
             "Gorizontal baho": 95.7,
             "Vertikal baho": 68.4,
             "Yakuniy ball": 82.05
-        },
-        {
-            "Davr": "2025_10",
-            "Bank nomi": "YANGI BANK",
-            "1": 1218,
-            "2": 228,
-            "3": 458,
-            "4": 778,
-            "5": 14771,
-            "Jami": 17453,
-            "Gorizontal baho": 91.69,
-            "Vertikal baho": 71.74,
-            "Yakuniy ball": 81.71
         },
         {
             "Davr": "2025_10",
@@ -4212,32 +3934,6 @@
             "Yakuniy ball": 57.13
         },
         {
-            "Davr": "2025_10",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 12,
-            "2": 0,
-            "3": 1,
-            "4": 1,
-            "5": 20,
-            "Jami": 34,
-            "Gorizontal baho": 70.0,
-            "Vertikal baho": 43.36,
-            "Yakuniy ball": 56.68
-        },
-        {
-            "Davr": "2025_10",
-            "Bank nomi": "ZIRAAT BANK UZBEKISTAN",
-            "1": 206,
-            "2": 10,
-            "3": 0,
-            "4": 0,
-            "5": 64,
-            "Jami": 280,
-            "Gorizontal baho": 39.0,
-            "Vertikal baho": 43.64,
-            "Yakuniy ball": 41.32
-        },
-        {
             "Davr": "2025_11",
             "Bank nomi": "TBC BANK",
             "1": 17534,
@@ -4392,19 +4088,6 @@
             "Gorizontal baho": 96.5,
             "Vertikal baho": 68.45,
             "Yakuniy ball": 82.47
-        },
-        {
-            "Davr": "2025_11",
-            "Bank nomi": "YANGI BANK",
-            "1": 988,
-            "2": 223,
-            "3": 366,
-            "4": 784,
-            "5": 15638,
-            "Jami": 17999,
-            "Gorizontal baho": 93.18,
-            "Vertikal baho": 71.15,
-            "Yakuniy ball": 82.16
         },
         {
             "Davr": "2025_11",
@@ -4603,19 +4286,6 @@
         },
         {
             "Davr": "2025_11",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 14,
-            "2": 0,
-            "3": 1,
-            "4": 1,
-            "5": 36,
-            "Jami": 52,
-            "Gorizontal baho": 77.31,
-            "Vertikal baho": 43.63,
-            "Yakuniy ball": 60.47
-        },
-        {
-            "Davr": "2025_11",
             "Bank nomi": "UNIVERSAL BANK",
             "1": 87,
             "2": 11,
@@ -4795,19 +4465,6 @@
             "Gorizontal baho": 96.12,
             "Vertikal baho": 67.88,
             "Yakuniy ball": 82.0
-        },
-        {
-            "Davr": "2025_12",
-            "Bank nomi": "YANGI BANK",
-            "1": 1145,
-            "2": 204,
-            "3": 357,
-            "4": 715,
-            "5": 16058,
-            "Jami": 18479,
-            "Gorizontal baho": 92.83,
-            "Vertikal baho": 70.4,
-            "Yakuniy ball": 81.62
         },
         {
             "Davr": "2025_12",
@@ -5029,6 +4686,383 @@
             "Gorizontal baho": 73.4,
             "Vertikal baho": 46.56,
             "Yakuniy ball": 59.98
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TBC BANK",
+            "1": 18688,
+            "2": 5959,
+            "3": 10430,
+            "4": 21996,
+            "5": 578027,
+            "Jami": 635100,
+            "Gorizontal baho": 95.73,
+            "Vertikal baho": 100.0,
+            "Yakuniy ball": 97.87
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ANOR BANK",
+            "1": 14217,
+            "2": 3328,
+            "3": 6132,
+            "4": 13777,
+            "5": 376610,
+            "Jami": 414064,
+            "Gorizontal baho": 95.51,
+            "Vertikal baho": 93.96,
+            "Yakuniy ball": 94.73
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "BANK IPAK YO'LI",
+            "1": 5144,
+            "2": 1179,
+            "3": 2582,
+            "4": 6367,
+            "5": 148272,
+            "Jami": 163544,
+            "Gorizontal baho": 95.64,
+            "Vertikal baho": 86.79,
+            "Yakuniy ball": 91.21
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "UZUM BANK",
+            "1": 15974,
+            "2": 2475,
+            "3": 2600,
+            "4": 5045,
+            "5": 199656,
+            "Jami": 225750,
+            "Gorizontal baho": 92.77,
+            "Vertikal baho": 87.85,
+            "Yakuniy ball": 90.31
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ALOQABANK",
+            "1": 5925,
+            "2": 1688,
+            "3": 2202,
+            "4": 5160,
+            "5": 93243,
+            "Jami": 108218,
+            "Gorizontal baho": 92.91,
+            "Vertikal baho": 85.01,
+            "Yakuniy ball": 88.96
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TENGE BANK",
+            "1": 1209,
+            "2": 176,
+            "3": 541,
+            "4": 1448,
+            "5": 41299,
+            "Jami": 44673,
+            "Gorizontal baho": 96.45,
+            "Vertikal baho": 76.01,
+            "Yakuniy ball": 86.23
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ASAKABANK",
+            "1": 1744,
+            "2": 407,
+            "3": 606,
+            "4": 1870,
+            "5": 39517,
+            "Jami": 44144,
+            "Gorizontal baho": 94.88,
+            "Vertikal baho": 77.33,
+            "Yakuniy ball": 86.1
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "O'ZSANOATQURILISHBANK",
+            "1": 2326,
+            "2": 482,
+            "3": 681,
+            "4": 1917,
+            "5": 36575,
+            "Jami": 41981,
+            "Gorizontal baho": 93.31,
+            "Vertikal baho": 78.37,
+            "Yakuniy ball": 85.84
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "O'ZMILLIYBANK",
+            "1": 3776,
+            "2": 587,
+            "3": 662,
+            "4": 1732,
+            "5": 40081,
+            "Jami": 46838,
+            "Gorizontal baho": 91.48,
+            "Vertikal baho": 78.36,
+            "Yakuniy ball": 84.92
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "OPEN BANK",
+            "1": 506,
+            "2": 165,
+            "3": 227,
+            "4": 796,
+            "5": 22295,
+            "Jami": 23989,
+            "Gorizontal baho": 96.84,
+            "Vertikal baho": 69.01,
+            "Yakuniy ball": 82.92
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "KAPITALBANK",
+            "1": 825,
+            "2": 93,
+            "3": 317,
+            "4": 648,
+            "5": 22651,
+            "Jami": 24534,
+            "Gorizontal baho": 96.01,
+            "Vertikal baho": 68.88,
+            "Yakuniy ball": 82.45
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "XALQ BANKI",
+            "1": 4751,
+            "2": 854,
+            "3": 948,
+            "4": 1739,
+            "5": 29816,
+            "Jami": 38108,
+            "Gorizontal baho": 86.76,
+            "Vertikal baho": 77.87,
+            "Yakuniy ball": 82.32
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TRASTBANK",
+            "1": 350,
+            "2": 123,
+            "3": 206,
+            "4": 598,
+            "5": 12830,
+            "Jami": 14107,
+            "Gorizontal baho": 96.03,
+            "Vertikal baho": 64.52,
+            "Yakuniy ball": 80.27
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "MIKROKREDITBANK",
+            "1": 507,
+            "2": 90,
+            "3": 161,
+            "4": 588,
+            "5": 15261,
+            "Jami": 16607,
+            "Gorizontal baho": 96.1,
+            "Vertikal baho": 64.01,
+            "Yakuniy ball": 80.06
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "AVO BANK",
+            "1": 2300,
+            "2": 173,
+            "3": 249,
+            "4": 704,
+            "5": 17456,
+            "Jami": 20882,
+            "Gorizontal baho": 89.52,
+            "Vertikal baho": 68.77,
+            "Yakuniy ball": 79.15
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ASIA ALLIANCE BANK",
+            "1": 160,
+            "2": 80,
+            "3": 160,
+            "4": 272,
+            "5": 9548,
+            "Jami": 10220,
+            "Gorizontal baho": 97.07,
+            "Vertikal baho": 58.01,
+            "Yakuniy ball": 77.54
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "OCTOBANK",
+            "1": 1480,
+            "2": 186,
+            "3": 175,
+            "4": 574,
+            "5": 8720,
+            "Jami": 11135,
+            "Gorizontal baho": 86.64,
+            "Vertikal baho": 62.46,
+            "Yakuniy ball": 74.55
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "AGROBANK",
+            "1": 4942,
+            "2": 581,
+            "3": 637,
+            "4": 871,
+            "5": 13319,
+            "Jami": 20350,
+            "Gorizontal baho": 76.74,
+            "Vertikal baho": 71.88,
+            "Yakuniy ball": 74.31
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TURONBANK",
+            "1": 230,
+            "2": 30,
+            "3": 93,
+            "4": 61,
+            "5": 6170,
+            "Jami": 6584,
+            "Gorizontal baho": 96.09,
+            "Vertikal baho": 52.46,
+            "Yakuniy ball": 74.28
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "INFINBANK",
+            "1": 2521,
+            "2": 261,
+            "3": 355,
+            "4": 366,
+            "5": 9667,
+            "Jami": 13170,
+            "Gorizontal baho": 81.84,
+            "Vertikal baho": 65.11,
+            "Yakuniy ball": 73.48
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "HAYOT BANK",
+            "1": 35,
+            "2": 8,
+            "3": 8,
+            "4": 99,
+            "5": 825,
+            "Jami": 975,
+            "Gorizontal baho": 93.7,
+            "Vertikal baho": 48.85,
+            "Yakuniy ball": 71.28
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "HAMKORBANK",
+            "1": 814,
+            "2": 112,
+            "3": 147,
+            "4": 315,
+            "5": 3698,
+            "Jami": 5086,
+            "Gorizontal baho": 83.4,
+            "Vertikal baho": 57.02,
+            "Yakuniy ball": 70.21
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "KDB BANK O'ZBEKISTON",
+            "1": 3,
+            "2": 6,
+            "3": 6,
+            "4": 31,
+            "5": 386,
+            "Jami": 432,
+            "Gorizontal baho": 95.3,
+            "Vertikal baho": 44.79,
+            "Yakuniy ball": 70.05
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "APEX BANK",
+            "1": 50,
+            "2": 11,
+            "3": 11,
+            "4": 45,
+            "5": 462,
+            "Jami": 579,
+            "Gorizontal baho": 89.02,
+            "Vertikal baho": 46.88,
+            "Yakuniy ball": 67.95
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "IPOTEKA-BANK",
+            "1": 2907,
+            "2": 357,
+            "3": 368,
+            "4": 294,
+            "5": 6446,
+            "Jami": 10372,
+            "Gorizontal baho": 73.49,
+            "Vertikal baho": 62.26,
+            "Yakuniy ball": 67.87
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "BIZNESNI RIVOJLANTIRISH BANKI",
+            "1": 721,
+            "2": 92,
+            "3": 61,
+            "4": 71,
+            "5": 2154,
+            "Jami": 3099,
+            "Gorizontal baho": 78.26,
+            "Vertikal baho": 52.27,
+            "Yakuniy ball": 65.27
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "DAVR-BANK",
+            "1": 551,
+            "2": 53,
+            "3": 21,
+            "4": 96,
+            "5": 1665,
+            "Jami": 2386,
+            "Gorizontal baho": 78.9,
+            "Vertikal baho": 50.99,
+            "Yakuniy ball": 64.95
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "UNIVERSAL BANK",
+            "1": 85,
+            "2": 0,
+            "3": 38,
+            "4": 19,
+            "5": 247,
+            "Jami": 389,
+            "Gorizontal baho": 76.84,
+            "Vertikal baho": 45.27,
+            "Yakuniy ball": 61.06
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "GARANT BANK",
+            "1": 84,
+            "2": 11,
+            "3": 11,
+            "4": 8,
+            "5": 185,
+            "Jami": 299,
+            "Gorizontal baho": 71.87,
+            "Vertikal baho": 43.7,
+            "Yakuniy ball": 57.78
         }
     ],
     "App Store": [
@@ -5255,19 +5289,6 @@
         },
         {
             "Davr": "2025_01",
-            "Bank nomi": "YANGI BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 1,
-            "Jami": 1,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 42.43,
-            "Yakuniy ball": 71.22
-        },
-        {
-            "Davr": "2025_01",
             "Bank nomi": "AVO BANK",
             "1": 297,
             "2": 22,
@@ -5408,19 +5429,6 @@
             "Gorizontal baho": 41.41,
             "Vertikal baho": 58.44,
             "Yakuniy ball": 49.93
-        },
-        {
-            "Davr": "2025_01",
-            "Bank nomi": "ZIRAAT BANK UZBEKISTAN",
-            "1": 24,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 8,
-            "Jami": 32,
-            "Gorizontal baho": 40.0,
-            "Vertikal baho": 43.87,
-            "Yakuniy ball": 41.93
         },
         {
             "Davr": "2025_02",
@@ -5671,19 +5679,6 @@
         },
         {
             "Davr": "2025_02",
-            "Bank nomi": "YANGI BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 3,
-            "Jami": 3,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 42.43,
-            "Yakuniy ball": 71.22
-        },
-        {
-            "Davr": "2025_02",
             "Bank nomi": "DAVR-BANK",
             "1": 177,
             "2": 34,
@@ -5798,19 +5793,6 @@
             "Gorizontal baho": 40.89,
             "Vertikal baho": 58.75,
             "Yakuniy ball": 49.82
-        },
-        {
-            "Davr": "2025_02",
-            "Bank nomi": "ZIRAAT BANK UZBEKISTAN",
-            "1": 25,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 8,
-            "Jami": 33,
-            "Gorizontal baho": 39.39,
-            "Vertikal baho": 43.87,
-            "Yakuniy ball": 41.63
         },
         {
             "Davr": "2025_03",
@@ -6061,32 +6043,6 @@
         },
         {
             "Davr": "2025_03",
-            "Bank nomi": "YANGI BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 3,
-            "Jami": 3,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 42.95,
-            "Yakuniy ball": 71.48
-        },
-        {
-            "Davr": "2025_03",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 2,
-            "Jami": 2,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 42.39,
-            "Yakuniy ball": 71.19
-        },
-        {
-            "Davr": "2025_03",
             "Bank nomi": "MIKROKREDITBANK",
             "1": 27,
             "2": 7,
@@ -6201,19 +6157,6 @@
             "Gorizontal baho": 40.99,
             "Vertikal baho": 60.63,
             "Yakuniy ball": 50.81
-        },
-        {
-            "Davr": "2025_03",
-            "Bank nomi": "ZIRAAT BANK UZBEKISTAN",
-            "1": 25,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 8,
-            "Jami": 33,
-            "Gorizontal baho": 39.39,
-            "Vertikal baho": 44.38,
-            "Yakuniy ball": 41.89
         },
         {
             "Davr": "2025_04",
@@ -6461,32 +6404,6 @@
             "Gorizontal baho": 100.0,
             "Vertikal baho": 43.52,
             "Yakuniy ball": 71.76
-        },
-        {
-            "Davr": "2025_04",
-            "Bank nomi": "YANGI BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 3,
-            "Jami": 3,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 42.95,
-            "Yakuniy ball": 71.48
-        },
-        {
-            "Davr": "2025_04",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 2,
-            "Jami": 2,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 42.39,
-            "Yakuniy ball": 71.19
         },
         {
             "Davr": "2025_04",
@@ -6854,32 +6771,6 @@
         },
         {
             "Davr": "2025_05",
-            "Bank nomi": "YANGI BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 3,
-            "Jami": 3,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 42.95,
-            "Yakuniy ball": 71.48
-        },
-        {
-            "Davr": "2025_05",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 2,
-            "Jami": 2,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 42.39,
-            "Yakuniy ball": 71.19
-        },
-        {
-            "Davr": "2025_05",
             "Bank nomi": "MIKROKREDITBANK",
             "1": 30,
             "2": 8,
@@ -7241,32 +7132,6 @@
             "Gorizontal baho": 100.0,
             "Vertikal baho": 43.52,
             "Yakuniy ball": 71.76
-        },
-        {
-            "Davr": "2025_06",
-            "Bank nomi": "YANGI BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 3,
-            "Jami": 3,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 42.95,
-            "Yakuniy ball": 71.48
-        },
-        {
-            "Davr": "2025_06",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 2,
-            "Jami": 2,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 42.39,
-            "Yakuniy ball": 71.19
         },
         {
             "Davr": "2025_06",
@@ -7660,19 +7525,6 @@
         },
         {
             "Davr": "2025_07",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 2,
-            "Jami": 2,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 42.95,
-            "Yakuniy ball": 71.48
-        },
-        {
-            "Davr": "2025_07",
             "Bank nomi": "MIKROKREDITBANK",
             "1": 32,
             "2": 9,
@@ -7696,19 +7548,6 @@
             "Gorizontal baho": 86.87,
             "Vertikal baho": 47.18,
             "Yakuniy ball": 67.03
-        },
-        {
-            "Davr": "2025_07",
-            "Bank nomi": "YANGI BANK",
-            "1": 1,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 3,
-            "Jami": 4,
-            "Gorizontal baho": 80.0,
-            "Vertikal baho": 43.65,
-            "Yakuniy ball": 61.82
         },
         {
             "Davr": "2025_07",
@@ -8024,19 +7863,6 @@
         },
         {
             "Davr": "2025_08",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 2,
-            "Jami": 2,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 43.52,
-            "Yakuniy ball": 71.76
-        },
-        {
-            "Davr": "2025_08",
             "Bank nomi": "MIKROKREDITBANK",
             "1": 31,
             "2": 9,
@@ -8060,19 +7886,6 @@
             "Gorizontal baho": 82.22,
             "Vertikal baho": 47.79,
             "Yakuniy ball": 65.01
-        },
-        {
-            "Davr": "2025_08",
-            "Bank nomi": "YANGI BANK",
-            "1": 1,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 3,
-            "Jami": 4,
-            "Gorizontal baho": 80.0,
-            "Vertikal baho": 44.21,
-            "Yakuniy ball": 62.11
         },
         {
             "Davr": "2025_08",
@@ -8401,19 +8214,6 @@
         },
         {
             "Davr": "2025_09",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 2,
-            "Jami": 2,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 42.95,
-            "Yakuniy ball": 71.48
-        },
-        {
-            "Davr": "2025_09",
             "Bank nomi": "MIKROKREDITBANK",
             "1": 32,
             "2": 9,
@@ -8437,19 +8237,6 @@
             "Gorizontal baho": 82.16,
             "Vertikal baho": 48.92,
             "Yakuniy ball": 65.54
-        },
-        {
-            "Davr": "2025_09",
-            "Bank nomi": "YANGI BANK",
-            "1": 1,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 3,
-            "Jami": 4,
-            "Gorizontal baho": 80.0,
-            "Vertikal baho": 43.65,
-            "Yakuniy ball": 61.82
         },
         {
             "Davr": "2025_09",
@@ -8765,19 +8552,6 @@
         },
         {
             "Davr": "2025_10",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 2,
-            "Jami": 2,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 44.09,
-            "Yakuniy ball": 72.05
-        },
-        {
-            "Davr": "2025_10",
             "Bank nomi": "MIKROKREDITBANK",
             "1": 34,
             "2": 9,
@@ -8801,19 +8575,6 @@
             "Gorizontal baho": 82.16,
             "Vertikal baho": 49.57,
             "Yakuniy ball": 65.86
-        },
-        {
-            "Davr": "2025_10",
-            "Bank nomi": "YANGI BANK",
-            "1": 1,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 3,
-            "Jami": 4,
-            "Gorizontal baho": 80.0,
-            "Vertikal baho": 44.86,
-            "Yakuniy ball": 62.43
         },
         {
             "Davr": "2025_10",
@@ -9142,19 +8903,6 @@
         },
         {
             "Davr": "2025_11",
-            "Bank nomi": "MADAD INVEST BANK",
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 2,
-            "Jami": 2,
-            "Gorizontal baho": 100.0,
-            "Vertikal baho": 43.52,
-            "Yakuniy ball": 71.76
-        },
-        {
-            "Davr": "2025_11",
             "Bank nomi": "MIKROKREDITBANK",
             "1": 36,
             "2": 10,
@@ -9178,19 +8926,6 @@
             "Gorizontal baho": 80.2,
             "Vertikal baho": 50.25,
             "Yakuniy ball": 65.22
-        },
-        {
-            "Davr": "2025_11",
-            "Bank nomi": "YANGI BANK",
-            "1": 1,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 3,
-            "Jami": 4,
-            "Gorizontal baho": 80.0,
-            "Vertikal baho": 44.25,
-            "Yakuniy ball": 62.13
         },
         {
             "Davr": "2025_11",
@@ -9571,19 +9306,6 @@
         },
         {
             "Davr": "2025_12",
-            "Bank nomi": "YANGI BANK",
-            "1": 1,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 3,
-            "Jami": 4,
-            "Gorizontal baho": 80.0,
-            "Vertikal baho": 44.21,
-            "Yakuniy ball": 62.11
-        },
-        {
-            "Davr": "2025_12",
             "Bank nomi": "KDB BANK O'ZBEKISTON",
             "1": 19,
             "2": 2,
@@ -9646,6 +9368,383 @@
             "Gorizontal baho": 60.0,
             "Vertikal baho": 43.65,
             "Yakuniy ball": 51.82
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "BANK IPAK YO'LI",
+            "1": 980,
+            "2": 980,
+            "3": 980,
+            "4": 1960,
+            "5": 93100,
+            "Jami": 98000,
+            "Gorizontal baho": 97.8,
+            "Vertikal baho": 99.0,
+            "Yakuniy ball": 98.4
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TBC BANK",
+            "1": 1800,
+            "2": 900,
+            "3": 900,
+            "4": 1800,
+            "5": 84600,
+            "Jami": 90000,
+            "Gorizontal baho": 97.0,
+            "Vertikal baho": 96.72,
+            "Yakuniy ball": 96.86
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "UZUM BANK",
+            "1": 2100,
+            "2": 700,
+            "3": 700,
+            "4": 2100,
+            "5": 64400,
+            "Jami": 70000,
+            "Gorizontal baho": 96.0,
+            "Vertikal baho": 95.48,
+            "Yakuniy ball": 95.74
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ALOQABANK",
+            "1": 600,
+            "2": 200,
+            "3": 200,
+            "4": 600,
+            "5": 18400,
+            "Jami": 20000,
+            "Gorizontal baho": 96.0,
+            "Vertikal baho": 86.11,
+            "Yakuniy ball": 91.05
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TENGE BANK",
+            "1": 360,
+            "2": 180,
+            "3": 180,
+            "4": 360,
+            "5": 16920,
+            "Jami": 18000,
+            "Gorizontal baho": 97.0,
+            "Vertikal baho": 82.84,
+            "Yakuniy ball": 89.92
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "OPEN BANK",
+            "1": 280,
+            "2": 140,
+            "3": 140,
+            "4": 280,
+            "5": 13300,
+            "Jami": 14140,
+            "Gorizontal baho": 98.0,
+            "Vertikal baho": 79.49,
+            "Yakuniy ball": 88.74
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "O'ZMILLIYBANK",
+            "1": 1120,
+            "2": 140,
+            "3": 140,
+            "4": 420,
+            "5": 12180,
+            "Jami": 14000,
+            "Gorizontal baho": 92.0,
+            "Vertikal baho": 81.49,
+            "Yakuniy ball": 86.74
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "O'ZSANOATQURILISHBANK",
+            "1": 120,
+            "2": 0,
+            "3": 120,
+            "4": 360,
+            "5": 11400,
+            "Jami": 12000,
+            "Gorizontal baho": 98.2,
+            "Vertikal baho": 74.83,
+            "Yakuniy ball": 86.51
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ASAKABANK",
+            "1": 285,
+            "2": 95,
+            "3": 95,
+            "4": 285,
+            "5": 8740,
+            "Jami": 9500,
+            "Gorizontal baho": 96.0,
+            "Vertikal baho": 76.12,
+            "Yakuniy ball": 86.06
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "BIZNESNI RIVOJLANTIRISH BANKI",
+            "1": 231,
+            "2": 77,
+            "3": 77,
+            "4": 154,
+            "5": 7161,
+            "Jami": 7700,
+            "Gorizontal baho": 96.2,
+            "Vertikal baho": 72.39,
+            "Yakuniy ball": 84.29
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "AGROBANK",
+            "1": 260,
+            "2": 104,
+            "3": 104,
+            "4": 156,
+            "5": 4628,
+            "Jami": 5252,
+            "Gorizontal baho": 94.4,
+            "Vertikal baho": 73.65,
+            "Yakuniy ball": 84.03
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ANOR BANK",
+            "1": 308,
+            "2": 44,
+            "3": 88,
+            "4": 132,
+            "5": 3872,
+            "Jami": 4444,
+            "Gorizontal baho": 93.4,
+            "Vertikal baho": 69.31,
+            "Yakuniy ball": 81.36
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "KAPITALBANK",
+            "1": 486,
+            "2": 54,
+            "3": 108,
+            "4": 108,
+            "5": 4590,
+            "Jami": 5346,
+            "Gorizontal baho": 90.0,
+            "Vertikal baho": 71.59,
+            "Yakuniy ball": 80.79
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TRASTBANK",
+            "1": 117,
+            "2": 39,
+            "3": 39,
+            "4": 78,
+            "5": 3627,
+            "Jami": 3900,
+            "Gorizontal baho": 96.2,
+            "Vertikal baho": 65.25,
+            "Yakuniy ball": 80.73
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "OCTOBANK",
+            "1": 147,
+            "2": 21,
+            "3": 42,
+            "4": 42,
+            "5": 1848,
+            "Jami": 2100,
+            "Gorizontal baho": 92.6,
+            "Vertikal baho": 63.68,
+            "Yakuniy ball": 78.14
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TURONBANK",
+            "1": 60,
+            "2": 15,
+            "3": 15,
+            "4": 15,
+            "5": 643,
+            "Jami": 748,
+            "Gorizontal baho": 91.18,
+            "Vertikal baho": 56.79,
+            "Yakuniy ball": 73.99
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "XALQ BANKI",
+            "1": 208,
+            "2": 52,
+            "3": 65,
+            "4": 65,
+            "5": 910,
+            "Jami": 1300,
+            "Gorizontal baho": 81.8,
+            "Vertikal baho": 64.5,
+            "Yakuniy ball": 73.15
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "AVO BANK",
+            "1": 460,
+            "2": 40,
+            "3": 40,
+            "4": 40,
+            "5": 1440,
+            "Jami": 2020,
+            "Gorizontal baho": 80.2,
+            "Vertikal baho": 63.6,
+            "Yakuniy ball": 71.9
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "HAYOT BANK",
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 5,
+            "Jami": 5,
+            "Gorizontal baho": 100.0,
+            "Vertikal baho": 43.09,
+            "Yakuniy ball": 71.55
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "INFINBANK",
+            "1": 163,
+            "2": 38,
+            "3": 38,
+            "4": 38,
+            "5": 679,
+            "Jami": 956,
+            "Gorizontal baho": 81.5,
+            "Vertikal baho": 60.47,
+            "Yakuniy ball": 70.99
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "HAMKORBANK",
+            "1": 141,
+            "2": 28,
+            "3": 21,
+            "4": 28,
+            "5": 486,
+            "Jami": 704,
+            "Gorizontal baho": 79.6,
+            "Vertikal baho": 58.01,
+            "Yakuniy ball": 68.81
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "APEX BANK",
+            "1": 17,
+            "2": 2,
+            "3": 1,
+            "4": 1,
+            "5": 102,
+            "Jami": 123,
+            "Gorizontal baho": 87.48,
+            "Vertikal baho": 47.62,
+            "Yakuniy ball": 67.55
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "DAVR-BANK",
+            "1": 62,
+            "2": 7,
+            "3": 13,
+            "4": 7,
+            "5": 235,
+            "Jami": 324,
+            "Gorizontal baho": 80.61,
+            "Vertikal baho": 53.92,
+            "Yakuniy ball": 67.27
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "MIKROKREDITBANK",
+            "1": 38,
+            "2": 8,
+            "3": 4,
+            "4": 4,
+            "5": 154,
+            "Jami": 208,
+            "Gorizontal baho": 80.76,
+            "Vertikal baho": 51.01,
+            "Yakuniy ball": 65.89
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "GARANT BANK",
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2,
+            "Jami": 3,
+            "Gorizontal baho": 73.33,
+            "Vertikal baho": 42.53,
+            "Yakuniy ball": 57.93
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "UNIVERSAL BANK",
+            "1": 17,
+            "2": 2,
+            "3": 2,
+            "4": 1,
+            "5": 27,
+            "Jami": 49,
+            "Gorizontal baho": 67.76,
+            "Vertikal baho": 46.11,
+            "Yakuniy ball": 56.93
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ASIA ALLIANCE BANK",
+            "1": 61,
+            "2": 11,
+            "3": 8,
+            "4": 8,
+            "5": 67,
+            "Jami": 155,
+            "Gorizontal baho": 61.96,
+            "Vertikal baho": 51.6,
+            "Yakuniy ball": 56.78
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "KDB BANK O'ZBEKISTON",
+            "1": 19,
+            "2": 2,
+            "3": 4,
+            "4": 2,
+            "5": 27,
+            "Jami": 54,
+            "Gorizontal baho": 65.93,
+            "Vertikal baho": 47.44,
+            "Yakuniy ball": 56.68
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "IPOTEKA-BANK",
+            "1": 381,
+            "2": 30,
+            "3": 12,
+            "4": 18,
+            "5": 163,
+            "Jami": 604,
+            "Gorizontal baho": 45.09,
+            "Vertikal baho": 55.99,
+            "Yakuniy ball": 50.54
         }
     ],
     "Ilovalar faolligi": [
@@ -9767,16 +9866,6 @@
             "Yuklanishlar soni bo'yicha ball": 93.62,
             "Kunlik izohlar soni bo'yicha ball": 89.67,
             "Izohlar salmog'i bo'yicha ball": 63.79,
-            "Ilova faoligi bo'yicha yakuniy ball": 91.72
-        },
-        {
-            "Davr": "2025_04",
-            "Bank nomi": "YANGI BANK",
-            "Ilova nomi": "Yangi — Онлайн-банк и финансы",
-            "Ilova yoshi bo'yicha ball": 95.26,
-            "Yuklanishlar soni bo'yicha ball": 96.62,
-            "Kunlik izohlar soni bo'yicha ball": 91.72,
-            "Izohlar salmog'i bo'yicha ball": 62.85,
             "Ilova faoligi bo'yicha yakuniy ball": 91.72
         },
         {
@@ -9950,16 +10039,6 @@
             "Ilova faoligi bo'yicha yakuniy ball": 85.53
         },
         {
-            "Davr": "2025_04",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Ilova nomi": "Madad Invest Business",
-            "Ilova yoshi bo'yicha ball": 97.29,
-            "Yuklanishlar soni bo'yicha ball": 81.92,
-            "Kunlik izohlar soni bo'yicha ball": 74.65,
-            "Izohlar salmog'i bo'yicha ball": 60.77,
-            "Ilova faoligi bo'yicha yakuniy ball": 84.5
-        },
-        {
             "Davr": "2025_05",
             "Bank nomi": "TBC BANK",
             "Ilova nomi": "TBC UZ: Мобильный Oнлайн Банк",
@@ -10068,16 +10147,6 @@
             "Kunlik izohlar soni bo'yicha ball": 93.49,
             "Izohlar salmog'i bo'yicha ball": 64.75,
             "Ilova faoligi bo'yicha yakuniy ball": 92.23
-        },
-        {
-            "Davr": "2025_05",
-            "Bank nomi": "YANGI BANK",
-            "Ilova nomi": "Yangi — Онлайн-банк и финансы",
-            "Ilova yoshi bo'yicha ball": 95.26,
-            "Yuklanishlar soni bo'yicha ball": 96.62,
-            "Kunlik izohlar soni bo'yicha ball": 91.61,
-            "Izohlar salmog'i bo'yicha ball": 62.74,
-            "Ilova faoligi bo'yicha yakuniy ball": 91.69
         },
         {
             "Davr": "2025_05",
@@ -10260,16 +10329,6 @@
             "Ilova faoligi bo'yicha yakuniy ball": 85.49
         },
         {
-            "Davr": "2025_05",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Ilova nomi": "Madad Invest Business",
-            "Ilova yoshi bo'yicha ball": 97.29,
-            "Yuklanishlar soni bo'yicha ball": 81.92,
-            "Kunlik izohlar soni bo'yicha ball": 74.51,
-            "Izohlar salmog'i bo'yicha ball": 60.72,
-            "Ilova faoligi bo'yicha yakuniy ball": 84.47
-        },
-        {
             "Davr": "2025_06",
             "Bank nomi": "TBC BANK",
             "Ilova nomi": "TBC UZ: Мобильный Oнлайн Банк",
@@ -10398,16 +10457,6 @@
             "Kunlik izohlar soni bo'yicha ball": 90.64,
             "Izohlar salmog'i bo'yicha ball": 62.94,
             "Ilova faoligi bo'yicha yakuniy ball": 91.11
-        },
-        {
-            "Davr": "2025_06",
-            "Bank nomi": "YANGI BANK",
-            "Ilova nomi": "Yangi — Онлайн-банк и финансы",
-            "Ilova yoshi bo'yicha ball": 95.26,
-            "Yuklanishlar soni bo'yicha ball": 94.8,
-            "Kunlik izohlar soni bo'yicha ball": 91.52,
-            "Izohlar salmog'i bo'yicha ball": 62.54,
-            "Ilova faoligi bo'yicha yakuniy ball": 91.1
         },
         {
             "Davr": "2025_06",
@@ -10570,16 +10619,6 @@
             "Ilova faoligi bo'yicha yakuniy ball": 84.97
         },
         {
-            "Davr": "2025_06",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Ilova nomi": "Madad Invest Business",
-            "Ilova yoshi bo'yicha ball": 97.29,
-            "Yuklanishlar soni bo'yicha ball": 80.38,
-            "Kunlik izohlar soni bo'yicha ball": 74.46,
-            "Izohlar salmog'i bo'yicha ball": 60.68,
-            "Ilova faoligi bo'yicha yakuniy ball": 83.99
-        },
-        {
             "Davr": "2025_07",
             "Bank nomi": "TBC BANK",
             "Ilova nomi": "TBC UZ: Мобильный Oнлайн Банк",
@@ -10708,16 +10747,6 @@
             "Kunlik izohlar soni bo'yicha ball": 90.73,
             "Izohlar salmog'i bo'yicha ball": 62.91,
             "Ilova faoligi bo'yicha yakuniy ball": 91.12
-        },
-        {
-            "Davr": "2025_07",
-            "Bank nomi": "YANGI BANK",
-            "Ilova nomi": "Yangi — Онлайн-банк и финансы",
-            "Ilova yoshi bo'yicha ball": 95.26,
-            "Yuklanishlar soni bo'yicha ball": 94.8,
-            "Kunlik izohlar soni bo'yicha ball": 91.46,
-            "Izohlar salmog'i bo'yicha ball": 62.39,
-            "Ilova faoligi bo'yicha yakuniy ball": 91.07
         },
         {
             "Davr": "2025_07",
@@ -10880,16 +10909,6 @@
             "Ilova faoligi bo'yicha yakuniy ball": 84.94
         },
         {
-            "Davr": "2025_07",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Ilova nomi": "Madad Invest Business",
-            "Ilova yoshi bo'yicha ball": 97.29,
-            "Yuklanishlar soni bo'yicha ball": 80.38,
-            "Kunlik izohlar soni bo'yicha ball": 74.35,
-            "Izohlar salmog'i bo'yicha ball": 60.62,
-            "Ilova faoligi bo'yicha yakuniy ball": 83.96
-        },
-        {
             "Davr": "2025_08",
             "Bank nomi": "TBC BANK",
             "Ilova nomi": "TBC UZ: Мобильный Oнлайн Банк",
@@ -11018,16 +11037,6 @@
             "Kunlik izohlar soni bo'yicha ball": 90.85,
             "Izohlar salmog'i bo'yicha ball": 62.98,
             "Ilova faoligi bo'yicha yakuniy ball": 91.15
-        },
-        {
-            "Davr": "2025_08",
-            "Bank nomi": "YANGI BANK",
-            "Ilova nomi": "Yangi — Онлайн-банк и финансы",
-            "Ilova yoshi bo'yicha ball": 95.26,
-            "Yuklanishlar soni bo'yicha ball": 94.8,
-            "Kunlik izohlar soni bo'yicha ball": 91.39,
-            "Izohlar salmog'i bo'yicha ball": 62.28,
-            "Ilova faoligi bo'yicha yakuniy ball": 91.05
         },
         {
             "Davr": "2025_08",
@@ -11190,16 +11199,6 @@
             "Ilova faoligi bo'yicha yakuniy ball": 84.93
         },
         {
-            "Davr": "2025_08",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Ilova nomi": "Madad Invest Business",
-            "Ilova yoshi bo'yicha ball": 97.29,
-            "Yuklanishlar soni bo'yicha ball": 80.38,
-            "Kunlik izohlar soni bo'yicha ball": 74.24,
-            "Izohlar salmog'i bo'yicha ball": 60.58,
-            "Ilova faoligi bo'yicha yakuniy ball": 83.94
-        },
-        {
             "Davr": "2025_09",
             "Bank nomi": "TBC BANK",
             "Ilova nomi": "TBC UZ: Мобильный Oнлайн Банк",
@@ -11338,16 +11337,6 @@
             "Kunlik izohlar soni bo'yicha ball": 89.4,
             "Izohlar salmog'i bo'yicha ball": 62.66,
             "Ilova faoligi bo'yicha yakuniy ball": 91.19
-        },
-        {
-            "Davr": "2025_09",
-            "Bank nomi": "YANGI BANK",
-            "Ilova nomi": "Yangi — Онлайн-банк и финансы",
-            "Ilova yoshi bo'yicha ball": 95.73,
-            "Yuklanishlar soni bo'yicha ball": 94.85,
-            "Kunlik izohlar soni bo'yicha ball": 91.09,
-            "Izohlar salmog'i bo'yicha ball": 62.0,
-            "Ilova faoligi bo'yicha yakuniy ball": 91.16
         },
         {
             "Davr": "2025_09",
@@ -11498,16 +11487,6 @@
             "Kunlik izohlar soni bo'yicha ball": 79.55,
             "Izohlar salmog'i bo'yicha ball": 62.34,
             "Ilova faoligi bo'yicha yakuniy ball": 85.03
-        },
-        {
-            "Davr": "2025_09",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Ilova nomi": "Madad Invest Business",
-            "Ilova yoshi bo'yicha ball": 89.74,
-            "Yuklanishlar soni bo'yicha ball": 87.61,
-            "Kunlik izohlar soni bo'yicha ball": 80.54,
-            "Izohlar salmog'i bo'yicha ball": 60.49,
-            "Ilova faoligi bo'yicha yakuniy ball": 84.34
         },
         {
             "Davr": "2025_10",
@@ -11661,16 +11640,6 @@
         },
         {
             "Davr": "2025_10",
-            "Bank nomi": "YANGI BANK",
-            "Ilova nomi": "Yangi — onlayn-bank va moliya",
-            "Ilova yoshi bo'yicha ball": 95.8,
-            "Yuklanishlar soni bo'yicha ball": 94.81,
-            "Kunlik izohlar soni bo'yicha ball": 91.0,
-            "Izohlar salmog'i bo'yicha ball": 63.01,
-            "Ilova faoligi bo'yicha yakuniy ball": 91.26
-        },
-        {
-            "Davr": "2025_10",
             "Bank nomi": "INFINBANK",
             "Ilova nomi": "InfinBank",
             "Ilova yoshi bo'yicha ball": 98.45,
@@ -11808,16 +11777,6 @@
             "Kunlik izohlar soni bo'yicha ball": 79.47,
             "Izohlar salmog'i bo'yicha ball": 63.53,
             "Ilova faoligi bo'yicha yakuniy ball": 85.15
-        },
-        {
-            "Davr": "2025_10",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Ilova nomi": "mybank UZ",
-            "Ilova yoshi bo'yicha ball": 90.35,
-            "Yuklanishlar soni bo'yicha ball": 81.01,
-            "Kunlik izohlar soni bo'yicha ball": 79.54,
-            "Izohlar salmog'i bo'yicha ball": 66.2,
-            "Ilova faoligi bo'yicha yakuniy ball": 82.97
         },
         {
             "Davr": "2025_11",
@@ -11958,16 +11917,6 @@
             "Kunlik izohlar soni bo'yicha ball": 89.32,
             "Izohlar salmog'i bo'yicha ball": 63.91,
             "Ilova faoligi bo'yicha yakuniy ball": 91.32
-        },
-        {
-            "Davr": "2025_11",
-            "Bank nomi": "YANGI BANK",
-            "Ilova nomi": "Yangi — Онлайн-банк и финансы",
-            "Ilova yoshi bo'yicha ball": 95.86,
-            "Yuklanishlar soni bo'yicha ball": 94.77,
-            "Kunlik izohlar soni bo'yicha ball": 90.94,
-            "Izohlar salmog'i bo'yicha ball": 62.97,
-            "Ilova faoligi bo'yicha yakuniy ball": 91.26
         },
         {
             "Davr": "2025_11",
@@ -12120,16 +12069,6 @@
             "Ilova faoligi bo'yicha yakuniy ball": 85.13
         },
         {
-            "Davr": "2025_11",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Ilova nomi": "mybank UZ",
-            "Ilova yoshi bo'yicha ball": 90.82,
-            "Yuklanishlar soni bo'yicha ball": 84.76,
-            "Kunlik izohlar soni bo'yicha ball": 80.05,
-            "Izohlar salmog'i bo'yicha ball": 61.78,
-            "Ilova faoligi bo'yicha yakuniy ball": 83.95
-        },
-        {
             "Davr": "2025_12",
             "Bank nomi": "BANK IPAK YO'LI",
             "Ilova nomi": "Ipak Yuli Mobile: Onlayn Bank",
@@ -12268,16 +12207,6 @@
             "Kunlik izohlar soni bo'yicha ball": 89.29,
             "Izohlar salmog'i bo'yicha ball": 63.87,
             "Ilova faoligi bo'yicha yakuniy ball": 91.31
-        },
-        {
-            "Davr": "2025_12",
-            "Bank nomi": "YANGI BANK",
-            "Ilova nomi": "Yangi — Онлайн-банк и финансы",
-            "Ilova yoshi bo'yicha ball": 95.86,
-            "Yuklanishlar soni bo'yicha ball": 94.77,
-            "Kunlik izohlar soni bo'yicha ball": 90.91,
-            "Izohlar salmog'i bo'yicha ball": 62.94,
-            "Ilova faoligi bo'yicha yakuniy ball": 91.25
         },
         {
             "Davr": "2025_12",
@@ -12428,6 +12357,296 @@
             "Kunlik izohlar soni bo'yicha ball": 80.5,
             "Izohlar salmog'i bo'yicha ball": 61.08,
             "Ilova faoligi bo'yicha yakuniy ball": 86.4
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TBC BANK",
+            "Ilova nomi": "TBC UZ: Мобильный Oнлайн Банк",
+            "Ilova yoshi bo'yicha ball": 98.58,
+            "Yuklanishlar soni bo'yicha ball": 99.65,
+            "Kunlik izohlar soni bo'yicha ball": 100.0,
+            "Izohlar salmog'i bo'yicha ball": 77.03,
+            "Ilova faoligi bo'yicha yakuniy ball": 97.03
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ANOR BANK",
+            "Ilova nomi": "Anorbank",
+            "Ilova yoshi bo'yicha ball": 98.04,
+            "Yuklanishlar soni bo'yicha ball": 99.1,
+            "Kunlik izohlar soni bo'yicha ball": 98.73,
+            "Izohlar salmog'i bo'yicha ball": 73.72,
+            "Ilova faoligi bo'yicha yakuniy ball": 96.06
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "BANK IPAK YO'LI",
+            "Ilova nomi": "Ipak Yuli Mobile: Onlayn Bank",
+            "Ilova yoshi bo'yicha ball": 99.57,
+            "Yuklanishlar soni bo'yicha ball": 94.52,
+            "Kunlik izohlar soni bo'yicha ball": 95.71,
+            "Izohlar salmog'i bo'yicha ball": 82.34,
+            "Ilova faoligi bo'yicha yakuniy ball": 95.56
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "UZUM BANK",
+            "Ilova nomi": "Uzum Bank onlayn. O'zbekiston",
+            "Ilova yoshi bo'yicha ball": 99.06,
+            "Yuklanishlar soni bo'yicha ball": 99.44,
+            "Kunlik izohlar soni bo'yicha ball": 96.59,
+            "Izohlar salmog'i bo'yicha ball": 66.41,
+            "Ilova faoligi bo'yicha yakuniy ball": 95.41
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ALOQABANK",
+            "Ilova nomi": "Zoomrad",
+            "Ilova yoshi bo'yicha ball": 98.56,
+            "Yuklanishlar soni bo'yicha ball": 95.93,
+            "Kunlik izohlar soni bo'yicha ball": 94.41,
+            "Izohlar salmog'i bo'yicha ball": 69.51,
+            "Ilova faoligi bo'yicha yakuniy ball": 94.04
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "XALQ BANKI",
+            "Ilova nomi": "xazna",
+            "Ilova yoshi bo'yicha ball": 96.54,
+            "Yuklanishlar soni bo'yicha ball": 100.0,
+            "Kunlik izohlar soni bo'yicha ball": 92.67,
+            "Izohlar salmog'i bo'yicha ball": 61.56,
+            "Ilova faoligi bo'yicha yakuniy ball": 93.31
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TENGE BANK",
+            "Ilova nomi": "Tenge24",
+            "Ilova yoshi bo'yicha ball": 97.64,
+            "Yuklanishlar soni bo'yicha ball": 94.78,
+            "Kunlik izohlar soni bo'yicha ball": 93.05,
+            "Izohlar salmog'i bo'yicha ball": 68.83,
+            "Ilova faoligi bo'yicha yakuniy ball": 92.99
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "O'ZMILLIYBANK",
+            "Ilova nomi": "Milliy 2.0",
+            "Ilova yoshi bo'yicha ball": 100.0,
+            "Yuklanishlar soni bo'yicha ball": 94.55,
+            "Kunlik izohlar soni bo'yicha ball": 90.77,
+            "Izohlar salmog'i bo'yicha ball": 64.51,
+            "Ilova faoligi bo'yicha yakuniy ball": 92.97
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "O'ZSANOATQURILISHBANK",
+            "Ilova nomi": "SQB MOBILE",
+            "Ilova yoshi bo'yicha ball": 98.88,
+            "Yuklanishlar soni bo'yicha ball": 95.07,
+            "Kunlik izohlar soni bo'yicha ball": 91.43,
+            "Izohlar salmog'i bo'yicha ball": 64.75,
+            "Ilova faoligi bo'yicha yakuniy ball": 92.84
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ASAKABANK",
+            "Ilova nomi": "Asakabank",
+            "Ilova yoshi bo'yicha ball": 98.02,
+            "Yuklanishlar soni bo'yicha ball": 94.08,
+            "Kunlik izohlar soni bo'yicha ball": 92.21,
+            "Izohlar salmog'i bo'yicha ball": 68.4,
+            "Ilova faoligi bo'yicha yakuniy ball": 92.72
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "OPEN BANK",
+            "Ilova nomi": "Openbank UZ - Onlayn bank",
+            "Ilova yoshi bo'yicha ball": 96.54,
+            "Yuklanishlar soni bo'yicha ball": 92.2,
+            "Kunlik izohlar soni bo'yicha ball": 92.57,
+            "Izohlar salmog'i bo'yicha ball": 77.33,
+            "Ilova faoligi bo'yicha yakuniy ball": 92.52
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "AVO BANK",
+            "Ilova nomi": "AVO — onlayn bank O'zbekiston",
+            "Ilova yoshi bo'yicha ball": 95.94,
+            "Yuklanishlar soni bo'yicha ball": 98.8,
+            "Kunlik izohlar soni bo'yicha ball": 91.58,
+            "Izohlar salmog'i bo'yicha ball": 61.57,
+            "Ilova faoligi bo'yicha yakuniy ball": 92.49
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "AGROBANK",
+            "Ilova nomi": "Agrobank",
+            "Ilova yoshi bo'yicha ball": 99.44,
+            "Yuklanishlar soni bo'yicha ball": 94.73,
+            "Kunlik izohlar soni bo'yicha ball": 88.69,
+            "Izohlar salmog'i bo'yicha ball": 62.12,
+            "Ilova faoligi bo'yicha yakuniy ball": 92.14
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "KAPITALBANK",
+            "Ilova nomi": "KAPITALBANK. Online",
+            "Ilova yoshi bo'yicha ball": 97.9,
+            "Yuklanishlar soni bo'yicha ball": 94.98,
+            "Kunlik izohlar soni bo'yicha ball": 90.55,
+            "Izohlar salmog'i bo'yicha ball": 63.66,
+            "Ilova faoligi bo'yicha yakuniy ball": 92.13
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "MIKROKREDITBANK",
+            "Ilova nomi": "MAVRID",
+            "Ilova yoshi bo'yicha ball": 96.52,
+            "Yuklanishlar soni bo'yicha ball": 88.8,
+            "Kunlik izohlar soni bo'yicha ball": 90.1,
+            "Izohlar salmog'i bo'yicha ball": 83.7,
+            "Ilova faoligi bo'yicha yakuniy ball": 91.64
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "IPOTEKA-BANK",
+            "Ilova nomi": "Ipoteka-Retail",
+            "Ilova yoshi bo'yicha ball": 97.12,
+            "Yuklanishlar soni bo'yicha ball": 96.37,
+            "Kunlik izohlar soni bo'yicha ball": 88.28,
+            "Izohlar salmog'i bo'yicha ball": 61.1,
+            "Ilova faoligi bo'yicha yakuniy ball": 91.52
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "INFINBANK",
+            "Ilova nomi": "InfinBank",
+            "Ilova yoshi bo'yicha ball": 99.46,
+            "Yuklanishlar soni bo'yicha ball": 93.61,
+            "Kunlik izohlar soni bo'yicha ball": 86.92,
+            "Izohlar salmog'i bo'yicha ball": 61.66,
+            "Ilova faoligi bo'yicha yakuniy ball": 91.42
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TRASTBANK",
+            "Ilova nomi": "Trastpay",
+            "Ilova yoshi bo'yicha ball": 96.87,
+            "Yuklanishlar soni bo'yicha ball": 91.4,
+            "Kunlik izohlar soni bo'yicha ball": 89.97,
+            "Izohlar salmog'i bo'yicha ball": 69.58,
+            "Ilova faoligi bo'yicha yakuniy ball": 91.12
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "HAMKORBANK",
+            "Ilova nomi": "Hamkor・онлайн банк Узбекистана",
+            "Ilova yoshi bo'yicha ball": 97.43,
+            "Yuklanishlar soni bo'yicha ball": 95.83,
+            "Kunlik izohlar soni bo'yicha ball": 86.14,
+            "Izohlar salmog'i bo'yicha ball": 60.63,
+            "Ilova faoligi bo'yicha yakuniy ball": 91.01
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "OCTOBANK",
+            "Ilova nomi": "Octo-Mobile",
+            "Ilova yoshi bo'yicha ball": 99.32,
+            "Yuklanishlar soni bo'yicha ball": 90.3,
+            "Kunlik izohlar soni bo'yicha ball": 86.86,
+            "Izohlar salmog'i bo'yicha ball": 64.78,
+            "Ilova faoligi bo'yicha yakuniy ball": 90.67
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "BIZNESNI RIVOJLANTIRISH BANKI",
+            "Ilova nomi": "BRB",
+            "Ilova yoshi bo'yicha ball": 98.53,
+            "Yuklanishlar soni bo'yicha ball": 91.32,
+            "Kunlik izohlar soni bo'yicha ball": 86.96,
+            "Izohlar salmog'i bo'yicha ball": 63.54,
+            "Ilova faoligi bo'yicha yakuniy ball": 90.56
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ASIA ALLIANCE BANK",
+            "Ilova nomi": "Alliance Pay",
+            "Ilova yoshi bo'yicha ball": 97.9,
+            "Yuklanishlar soni bo'yicha ball": 87.08,
+            "Kunlik izohlar soni bo'yicha ball": 87.41,
+            "Izohlar salmog'i bo'yicha ball": 77.2,
+            "Ilova faoligi bo'yicha yakuniy ball": 90.48
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "DAVR-BANK",
+            "Ilova nomi": "Davr Mobile 2.0",
+            "Ilova yoshi bo'yicha ball": 95.0,
+            "Yuklanishlar soni bo'yicha ball": 96.27,
+            "Kunlik izohlar soni bo'yicha ball": 86.14,
+            "Izohlar salmog'i bo'yicha ball": 60.55,
+            "Ilova faoligi bo'yicha yakuniy ball": 90.16
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TURONBANK",
+            "Ilova nomi": "MyTuron",
+            "Ilova yoshi bo'yicha ball": 97.11,
+            "Yuklanishlar soni bo'yicha ball": 91.75,
+            "Kunlik izohlar soni bo'yicha ball": 87.11,
+            "Izohlar salmog'i bo'yicha ball": 63.23,
+            "Ilova faoligi bo'yicha yakuniy ball": 90.11
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "UNIVERSAL BANK",
+            "Ilova nomi": "Universalbank",
+            "Ilova yoshi bo'yicha ball": 94.91,
+            "Yuklanishlar soni bo'yicha ball": 94.29,
+            "Kunlik izohlar soni bo'yicha ball": 81.13,
+            "Izohlar salmog'i bo'yicha ball": 60.17,
+            "Ilova faoligi bo'yicha yakuniy ball": 88.49
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "APEX BANK",
+            "Ilova nomi": "APEX: Мобильный Онлайн-Банк",
+            "Ilova yoshi bo'yicha ball": 94.18,
+            "Yuklanishlar soni bo'yicha ball": 93.28,
+            "Kunlik izohlar soni bo'yicha ball": 83.06,
+            "Izohlar salmog'i bo'yicha ball": 60.47,
+            "Ilova faoligi bo'yicha yakuniy ball": 88.32
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "HAYOT BANK",
+            "Ilova nomi": "Hayot Bank",
+            "Ilova yoshi bo'yicha ball": 95.29,
+            "Yuklanishlar soni bo'yicha ball": 89.27,
+            "Kunlik izohlar soni bo'yicha ball": 83.0,
+            "Izohlar salmog'i bo'yicha ball": 61.73,
+            "Ilova faoligi bo'yicha yakuniy ball": 87.67
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "GARANT BANK",
+            "Ilova nomi": "Garant bank",
+            "Ilova yoshi bo'yicha ball": 95.28,
+            "Yuklanishlar soni bo'yicha ball": 88.67,
+            "Kunlik izohlar soni bo'yicha ball": 79.82,
+            "Izohlar salmog'i bo'yicha ball": 60.65,
+            "Ilova faoligi bo'yicha yakuniy ball": 86.74
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "KDB BANK O'ZBEKISTON",
+            "Ilova nomi": "KDBUz Mobile",
+            "Ilova yoshi bo'yicha ball": 96.44,
+            "Yuklanishlar soni bo'yicha ball": 84.86,
+            "Kunlik izohlar soni bo'yicha ball": 80.12,
+            "Izohlar salmog'i bo'yicha ball": 62.74,
+            "Ilova faoligi bo'yicha yakuniy ball": 86.33
         }
     ],
     "Yakuniy natija": [
@@ -12568,16 +12787,6 @@
             "App Store": 81.15,
             "Faollik": 90.54,
             "Yakuniy ball": 81.35,
-            "Reyting": "(uz) BBB",
-            "Reyting tavsifi": "Juda yaxshi"
-        },
-        {
-            "Davr": "2025_01",
-            "Bank nomi": "YANGI BANK",
-            "Google Play": 79.52,
-            "App Store": 71.22,
-            "Faollik": 84.22,
-            "Yakuniy ball": 79.99,
             "Reyting": "(uz) BBB",
             "Reyting tavsifi": "Juda yaxshi"
         },
@@ -12732,16 +12941,6 @@
             "Reyting tavsifi": "Deyarli qoniqarli"
         },
         {
-            "Davr": "2025_01",
-            "Bank nomi": "ZIRAAT BANK UZBEKISTAN",
-            "Google Play": 42.67,
-            "App Store": 41.93,
-            "Faollik": 81.54,
-            "Yakuniy ball": 46.49,
-            "Reyting": "(uz) C",
-            "Reyting tavsifi": "Deyarli qoniqarli"
-        },
-        {
             "Davr": "2025_02",
             "Bank nomi": "TBC BANK",
             "Google Play": 96.82,
@@ -12878,16 +13077,6 @@
             "App Store": 85.69,
             "Faollik": 89.87,
             "Yakuniy ball": 81.31,
-            "Reyting": "(uz) BBB",
-            "Reyting tavsifi": "Juda yaxshi"
-        },
-        {
-            "Davr": "2025_02",
-            "Bank nomi": "YANGI BANK",
-            "Google Play": 79.99,
-            "App Store": 71.22,
-            "Faollik": 91.51,
-            "Yakuniy ball": 81.14,
             "Reyting": "(uz) BBB",
             "Reyting tavsifi": "Juda yaxshi"
         },
@@ -13173,16 +13362,6 @@
         },
         {
             "Davr": "2025_03",
-            "Bank nomi": "YANGI BANK",
-            "Google Play": 80.25,
-            "App Store": 71.48,
-            "Faollik": 91.76,
-            "Yakuniy ball": 81.4,
-            "Reyting": "(uz) BBB",
-            "Reyting tavsifi": "Juda yaxshi"
-        },
-        {
-            "Davr": "2025_03",
             "Bank nomi": "BIZNESNI RIVOJLANTIRISH BANKI",
             "Google Play": 65.27,
             "App Store": 85.73,
@@ -13332,16 +13511,6 @@
             "Reyting tavsifi": "Deyarli yaxshi"
         },
         {
-            "Davr": "2025_03",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Google Play": 52.11,
-            "App Store": 71.19,
-            "Faollik": 84.54,
-            "Yakuniy ball": 56.19,
-            "Reyting": "(uz) CC",
-            "Reyting tavsifi": "Qoniqarli"
-        },
-        {
             "Davr": "2025_04",
             "Bank nomi": "TBC BANK",
             "Google Play": 97.14,
@@ -13478,16 +13647,6 @@
             "App Store": 82.7,
             "Faollik": 91.53,
             "Yakuniy ball": 81.4,
-            "Reyting": "(uz) BBB",
-            "Reyting tavsifi": "Juda yaxshi"
-        },
-        {
-            "Davr": "2025_04",
-            "Bank nomi": "YANGI BANK",
-            "Google Play": 79.84,
-            "App Store": 71.48,
-            "Faollik": 91.72,
-            "Yakuniy ball": 81.03,
             "Reyting": "(uz) BBB",
             "Reyting tavsifi": "Juda yaxshi"
         },
@@ -13642,16 +13801,6 @@
             "Reyting tavsifi": "Deyarli yaxshi"
         },
         {
-            "Davr": "2025_04",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Google Play": 52.33,
-            "App Store": 71.19,
-            "Faollik": 84.5,
-            "Yakuniy ball": 56.38,
-            "Reyting": "(uz) CC",
-            "Reyting tavsifi": "Qoniqarli"
-        },
-        {
             "Davr": "2025_05",
             "Bank nomi": "TBC BANK",
             "Google Play": 97.21,
@@ -13788,16 +13937,6 @@
             "App Store": 81.9,
             "Faollik": 91.53,
             "Yakuniy ball": 81.35,
-            "Reyting": "(uz) BBB",
-            "Reyting tavsifi": "Juda yaxshi"
-        },
-        {
-            "Davr": "2025_05",
-            "Bank nomi": "YANGI BANK",
-            "Google Play": 79.66,
-            "App Store": 71.48,
-            "Faollik": 91.69,
-            "Yakuniy ball": 80.86,
             "Reyting": "(uz) BBB",
             "Reyting tavsifi": "Juda yaxshi"
         },
@@ -13952,16 +14091,6 @@
             "Reyting tavsifi": "Deyarli yaxshi"
         },
         {
-            "Davr": "2025_05",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Google Play": 52.4,
-            "App Store": 71.19,
-            "Faollik": 84.47,
-            "Yakuniy ball": 56.43,
-            "Reyting": "(uz) CC",
-            "Reyting tavsifi": "Qoniqarli"
-        },
-        {
             "Davr": "2025_06",
             "Bank nomi": "TBC BANK",
             "Google Play": 97.54,
@@ -14098,16 +14227,6 @@
             "App Store": 82.05,
             "Faollik": 90.91,
             "Yakuniy ball": 81.03,
-            "Reyting": "(uz) BBB",
-            "Reyting tavsifi": "Juda yaxshi"
-        },
-        {
-            "Davr": "2025_06",
-            "Bank nomi": "YANGI BANK",
-            "Google Play": 79.79,
-            "App Store": 71.48,
-            "Faollik": 91.1,
-            "Yakuniy ball": 80.92,
             "Reyting": "(uz) BBB",
             "Reyting tavsifi": "Juda yaxshi"
         },
@@ -14262,16 +14381,6 @@
             "Reyting tavsifi": "Deyarli yaxshi"
         },
         {
-            "Davr": "2025_06",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Google Play": 51.68,
-            "App Store": 71.19,
-            "Faollik": 83.99,
-            "Yakuniy ball": 55.74,
-            "Reyting": "(uz) CC",
-            "Reyting tavsifi": "Qoniqarli"
-        },
-        {
             "Davr": "2025_07",
             "Bank nomi": "TBC BANK",
             "Google Play": 97.78,
@@ -14423,16 +14532,6 @@
         },
         {
             "Davr": "2025_07",
-            "Bank nomi": "YANGI BANK",
-            "Google Play": 79.49,
-            "App Store": 61.82,
-            "Faollik": 91.07,
-            "Yakuniy ball": 80.65,
-            "Reyting": "(uz) BBB",
-            "Reyting tavsifi": "Juda yaxshi"
-        },
-        {
-            "Davr": "2025_07",
             "Bank nomi": "AVO BANK",
             "Google Play": 78.9,
             "App Store": 72.95,
@@ -14572,16 +14671,6 @@
             "Reyting tavsifi": "Deyarli yaxshi"
         },
         {
-            "Davr": "2025_07",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Google Play": 51.89,
-            "App Store": 71.48,
-            "Faollik": 83.96,
-            "Yakuniy ball": 55.93,
-            "Reyting": "(uz) CC",
-            "Reyting tavsifi": "Qoniqarli"
-        },
-        {
             "Davr": "2025_08",
             "Bank nomi": "TBC BANK",
             "Google Play": 97.8,
@@ -14718,16 +14807,6 @@
             "App Store": 82.44,
             "Faollik": 90.76,
             "Yakuniy ball": 81.52,
-            "Reyting": "(uz) BBB",
-            "Reyting tavsifi": "Juda yaxshi"
-        },
-        {
-            "Davr": "2025_08",
-            "Bank nomi": "YANGI BANK",
-            "Google Play": 80.11,
-            "App Store": 62.11,
-            "Faollik": 91.05,
-            "Yakuniy ball": 81.2,
             "Reyting": "(uz) BBB",
             "Reyting tavsifi": "Juda yaxshi"
         },
@@ -14882,16 +14961,6 @@
             "Reyting tavsifi": "Qoniqarli"
         },
         {
-            "Davr": "2025_08",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Google Play": 51.68,
-            "App Store": 71.76,
-            "Faollik": 83.94,
-            "Yakuniy ball": 55.76,
-            "Reyting": "(uz) CC",
-            "Reyting tavsifi": "Qoniqarli"
-        },
-        {
             "Davr": "2025_09",
             "Bank nomi": "TBC BANK",
             "Google Play": 97.8,
@@ -15018,16 +15087,6 @@
             "App Store": 85.33,
             "Faollik": 90.07,
             "Yakuniy ball": 82.39,
-            "Reyting": "(uz) A",
-            "Reyting tavsifi": "Deyarli namunali"
-        },
-        {
-            "Davr": "2025_09",
-            "Bank nomi": "YANGI BANK",
-            "Google Play": 81.18,
-            "App Store": 61.82,
-            "Faollik": 91.16,
-            "Yakuniy ball": 82.17,
             "Reyting": "(uz) A",
             "Reyting tavsifi": "Deyarli namunali"
         },
@@ -15192,16 +15251,6 @@
             "Reyting tavsifi": "Deyarli yaxshi"
         },
         {
-            "Davr": "2025_09",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Google Play": 51.77,
-            "App Store": 71.48,
-            "Faollik": 84.34,
-            "Yakuniy ball": 55.87,
-            "Reyting": "(uz) CC",
-            "Reyting tavsifi": "Qoniqarli"
-        },
-        {
             "Davr": "2025_10",
             "Bank nomi": "TBC BANK",
             "Google Play": 97.78,
@@ -15318,16 +15367,6 @@
             "App Store": 82.48,
             "Faollik": 91.48,
             "Yakuniy ball": 83.08,
-            "Reyting": "(uz) A",
-            "Reyting tavsifi": "Deyarli namunali"
-        },
-        {
-            "Davr": "2025_10",
-            "Bank nomi": "YANGI BANK",
-            "Google Play": 81.71,
-            "App Store": 62.43,
-            "Faollik": 91.26,
-            "Yakuniy ball": 82.66,
             "Reyting": "(uz) A",
             "Reyting tavsifi": "Deyarli namunali"
         },
@@ -15502,16 +15541,6 @@
             "Reyting tavsifi": "Deyarli yaxshi"
         },
         {
-            "Davr": "2025_10",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Google Play": 56.68,
-            "App Store": 72.05,
-            "Faollik": 82.97,
-            "Yakuniy ball": 60.08,
-            "Reyting": "(uz) CCC",
-            "Reyting tavsifi": "Deyarli yaxshi"
-        },
-        {
             "Davr": "2025_11",
             "Bank nomi": "TBC BANK",
             "Google Play": 97.83,
@@ -15628,16 +15657,6 @@
             "App Store": 81.87,
             "Faollik": 91.51,
             "Yakuniy ball": 83.27,
-            "Reyting": "(uz) A",
-            "Reyting tavsifi": "Deyarli namunali"
-        },
-        {
-            "Davr": "2025_11",
-            "Bank nomi": "YANGI BANK",
-            "Google Play": 82.16,
-            "App Store": 62.13,
-            "Faollik": 91.26,
-            "Yakuniy ball": 83.07,
             "Reyting": "(uz) A",
             "Reyting tavsifi": "Deyarli namunali"
         },
@@ -15793,16 +15812,6 @@
         },
         {
             "Davr": "2025_11",
-            "Bank nomi": "MADAD INVEST BANK",
-            "Google Play": 60.47,
-            "App Store": 71.76,
-            "Faollik": 83.95,
-            "Yakuniy ball": 63.2,
-            "Reyting": "(uz) CCC",
-            "Reyting tavsifi": "Deyarli yaxshi"
-        },
-        {
-            "Davr": "2025_11",
             "Bank nomi": "UNIVERSAL BANK",
             "Google Play": 58.96,
             "App Store": 59.06,
@@ -15938,16 +15947,6 @@
             "App Store": 81.7,
             "Faollik": 91.55,
             "Yakuniy ball": 82.9,
-            "Reyting": "(uz) A",
-            "Reyting tavsifi": "Deyarli namunali"
-        },
-        {
-            "Davr": "2025_12",
-            "Bank nomi": "YANGI BANK",
-            "Google Play": 81.62,
-            "App Store": 62.11,
-            "Faollik": 91.25,
-            "Yakuniy ball": 82.58,
             "Reyting": "(uz) A",
             "Reyting tavsifi": "Deyarli namunali"
         },
@@ -16118,6 +16117,296 @@
             "App Store": 51.82,
             "Faollik": 86.89,
             "Yakuniy ball": 62.62,
+            "Reyting": "(uz) CCC",
+            "Reyting tavsifi": "Deyarli yaxshi"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TBC BANK",
+            "Google Play": 97.87,
+            "App Store": 96.86,
+            "Faollik": 97.03,
+            "Yakuniy ball": 97.67,
+            "Reyting": "(uz) AAA",
+            "Reyting tavsifi": "Ideal"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ANOR BANK",
+            "Google Play": 94.73,
+            "App Store": 81.36,
+            "Faollik": 96.06,
+            "Yakuniy ball": 94.74,
+            "Reyting": "(uz) AAA",
+            "Reyting tavsifi": "Ideal"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "BANK IPAK YO'LI",
+            "Google Play": 91.21,
+            "App Store": 98.4,
+            "Faollik": 95.56,
+            "Yakuniy ball": 94.07,
+            "Reyting": "(uz) AAA",
+            "Reyting tavsifi": "Ideal"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "UZUM BANK",
+            "Google Play": 90.31,
+            "App Store": 95.74,
+            "Faollik": 95.41,
+            "Yakuniy ball": 91.98,
+            "Reyting": "(uz) AA",
+            "Reyting tavsifi": "Namunali"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ALOQABANK",
+            "Google Play": 88.96,
+            "App Store": 91.05,
+            "Faollik": 94.04,
+            "Yakuniy ball": 89.76,
+            "Reyting": "(uz) AA",
+            "Reyting tavsifi": "Namunali"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TENGE BANK",
+            "Google Play": 86.23,
+            "App Store": 89.92,
+            "Faollik": 92.99,
+            "Yakuniy ball": 87.86,
+            "Reyting": "(uz) A",
+            "Reyting tavsifi": "Deyarli namunali"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ASAKABANK",
+            "Google Play": 86.1,
+            "App Store": 86.06,
+            "Faollik": 92.72,
+            "Yakuniy ball": 86.76,
+            "Reyting": "(uz) A",
+            "Reyting tavsifi": "Deyarli namunali"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "O'ZSANOATQURILISHBANK",
+            "Google Play": 85.84,
+            "App Store": 86.51,
+            "Faollik": 92.84,
+            "Yakuniy ball": 86.68,
+            "Reyting": "(uz) A",
+            "Reyting tavsifi": "Deyarli namunali"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "O'ZMILLIYBANK",
+            "Google Play": 84.92,
+            "App Store": 86.74,
+            "Faollik": 92.97,
+            "Yakuniy ball": 86.1,
+            "Reyting": "(uz) A",
+            "Reyting tavsifi": "Deyarli namunali"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "OPEN BANK",
+            "Google Play": 82.92,
+            "App Store": 88.74,
+            "Faollik": 92.52,
+            "Yakuniy ball": 85.83,
+            "Reyting": "(uz) A",
+            "Reyting tavsifi": "Deyarli namunali"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "KAPITALBANK",
+            "Google Play": 82.45,
+            "App Store": 80.79,
+            "Faollik": 92.13,
+            "Yakuniy ball": 83.15,
+            "Reyting": "(uz) A",
+            "Reyting tavsifi": "Deyarli namunali"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "XALQ BANKI",
+            "Google Play": 82.32,
+            "App Store": 73.15,
+            "Faollik": 93.31,
+            "Yakuniy ball": 83.15,
+            "Reyting": "(uz) A",
+            "Reyting tavsifi": "Deyarli namunali"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TRASTBANK",
+            "Google Play": 80.27,
+            "App Store": 80.73,
+            "Faollik": 91.12,
+            "Yakuniy ball": 81.44,
+            "Reyting": "(uz) BBB",
+            "Reyting tavsifi": "Juda yaxshi"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "MIKROKREDITBANK",
+            "Google Play": 80.06,
+            "App Store": 65.89,
+            "Faollik": 91.64,
+            "Yakuniy ball": 81.06,
+            "Reyting": "(uz) BBB",
+            "Reyting tavsifi": "Juda yaxshi"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "BIZNESNI RIVOJLANTIRISH BANKI",
+            "Google Play": 65.27,
+            "App Store": 84.29,
+            "Faollik": 90.56,
+            "Yakuniy ball": 80.01,
+            "Reyting": "(uz) BBB",
+            "Reyting tavsifi": "Juda yaxshi"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "AVO BANK",
+            "Google Play": 79.15,
+            "App Store": 71.9,
+            "Faollik": 92.49,
+            "Yakuniy ball": 79.91,
+            "Reyting": "(uz) BBB",
+            "Reyting tavsifi": "Juda yaxshi"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "ASIA ALLIANCE BANK",
+            "Google Play": 77.54,
+            "App Store": 56.78,
+            "Faollik": 90.48,
+            "Yakuniy ball": 78.56,
+            "Reyting": "(uz) BBB",
+            "Reyting tavsifi": "Juda yaxshi"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "AGROBANK",
+            "Google Play": 74.31,
+            "App Store": 84.03,
+            "Faollik": 92.14,
+            "Yakuniy ball": 77.88,
+            "Reyting": "(uz) BBB",
+            "Reyting tavsifi": "Juda yaxshi"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "OCTOBANK",
+            "Google Play": 74.55,
+            "App Store": 78.14,
+            "Faollik": 90.67,
+            "Yakuniy ball": 76.68,
+            "Reyting": "(uz) BBB",
+            "Reyting tavsifi": "Juda yaxshi"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "TURONBANK",
+            "Google Play": 74.28,
+            "App Store": 73.99,
+            "Faollik": 90.11,
+            "Yakuniy ball": 75.83,
+            "Reyting": "(uz) BB",
+            "Reyting tavsifi": "Yaxshiroq"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "INFINBANK",
+            "Google Play": 73.48,
+            "App Store": 70.99,
+            "Faollik": 91.42,
+            "Yakuniy ball": 75.12,
+            "Reyting": "(uz) BB",
+            "Reyting tavsifi": "Yaxshiroq"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "HAYOT BANK",
+            "Google Play": 71.28,
+            "App Store": 71.55,
+            "Faollik": 87.67,
+            "Yakuniy ball": 72.92,
+            "Reyting": "(uz) BB",
+            "Reyting tavsifi": "Yaxshiroq"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "HAMKORBANK",
+            "Google Play": 70.21,
+            "App Store": 68.81,
+            "Faollik": 91.01,
+            "Yakuniy ball": 72.13,
+            "Reyting": "(uz) BB",
+            "Reyting tavsifi": "Yaxshiroq"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "KDB BANK O'ZBEKISTON",
+            "Google Play": 70.05,
+            "App Store": 56.68,
+            "Faollik": 86.33,
+            "Yakuniy ball": 70.34,
+            "Reyting": "(uz) BB",
+            "Reyting tavsifi": "Yaxshiroq"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "APEX BANK",
+            "Google Play": 67.95,
+            "App Store": 67.55,
+            "Faollik": 88.32,
+            "Yakuniy ball": 69.92,
+            "Reyting": "(uz) B",
+            "Reyting tavsifi": "Yaxshi"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "IPOTEKA-BANK",
+            "Google Play": 67.87,
+            "App Store": 50.54,
+            "Faollik": 91.52,
+            "Yakuniy ball": 69.38,
+            "Reyting": "(uz) B",
+            "Reyting tavsifi": "Yaxshi"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "DAVR-BANK",
+            "Google Play": 64.95,
+            "App Store": 67.27,
+            "Faollik": 90.16,
+            "Yakuniy ball": 67.72,
+            "Reyting": "(uz) B",
+            "Reyting tavsifi": "Yaxshi"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "UNIVERSAL BANK",
+            "Google Play": 61.06,
+            "App Store": 56.93,
+            "Faollik": 88.49,
+            "Yakuniy ball": 63.39,
+            "Reyting": "(uz) CCC",
+            "Reyting tavsifi": "Deyarli yaxshi"
+        },
+        {
+            "Davr": "2026_01",
+            "Bank nomi": "GARANT BANK",
+            "Google Play": 57.78,
+            "App Store": 57.93,
+            "Faollik": 86.74,
+            "Yakuniy ball": 60.68,
             "Reyting": "(uz) CCC",
             "Reyting tavsifi": "Deyarli yaxshi"
         }
